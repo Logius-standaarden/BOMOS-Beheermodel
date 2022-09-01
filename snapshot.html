@@ -31,22 +31,22 @@ dfn{cursor:pointer}
 .dfn-panel li{margin-left:1em}
 .dfn-panel.docked{position:fixed;left:.5em;top:unset;bottom:2em;margin:0 auto;max-width:calc(100vw - .75em * 2 - .5em - .2em * 2);max-height:30vh;overflow:auto}
 </style>
-
-
+  
+  
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-
-
-<title>[Titel van het document]</title>
-
-
+  
+  
+<title>BOMOS Beheermodel</title>
+  
+  
 <link rel="shortcut icon" type="image/x-icon" href="https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/logius.ico">
+  
 
-
-
-
+  
+  
 <link rel="stylesheet" type="text/css" href="./media/style.css">
-
-
+  
+  
 
 <style id="respec-mainstyle">
 @keyframes pop{
@@ -119,21 +119,7 @@ ul.index code{color:inherit}
 #index-defined-here .print-only{display:initial}
 }
 </style>
-<meta name="description" content="Samenvatting van het document - verplicht onderdeel.">
-<style>
-.hljs{display:block;overflow-x:auto;padding:.5em;color:#383a42;background:#fafafa}
-.hljs-comment,.hljs-quote{color:#717277;font-style:italic}
-.hljs-doctag,.hljs-formula,.hljs-keyword{color:#a626a4}
-.hljs-deletion,.hljs-name,.hljs-section,.hljs-selector-tag,.hljs-subst{color:#ca4706;font-weight:700}
-.hljs-literal{color:#0b76c5}
-.hljs-addition,.hljs-attribute,.hljs-meta-string,.hljs-regexp,.hljs-string{color:#42803c}
-.hljs-built_in,.hljs-class .hljs-title{color:#9a6a01}
-.hljs-attr,.hljs-number,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-pseudo,.hljs-template-variable,.hljs-type,.hljs-variable{color:#986801}
-.hljs-bullet,.hljs-link,.hljs-meta,.hljs-selector-id,.hljs-symbol,.hljs-title{color:#336ae3}
-.hljs-emphasis{font-style:italic}
-.hljs-strong{font-weight:700}
-.hljs-link{text-decoration:underline}
-</style>
+<meta name="description" content="Dit document beschrijft het Beheermodel van BOMOS.">
 <style>
 var{position:relative;cursor:pointer}
 var[data-type]::after,var[data-type]::before{position:absolute;left:50%;top:-6px;opacity:0;transition:opacity .4s;pointer-events:none}
@@ -146,10 +132,10 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
   "specType": "HR",
   "publishDate": "2022-06-01",
   "previousPublishDate": "2020-12-31",
-  "publishVersion": "1.0",
+  "publishVersion": "0.5",
   "previousPublishVersion": "0.1",
   "pubDomain": "bomos",
-  "shortName": "template",
+  "shortName": "beheer",
   "license": "cc-by-nd",
   "doJsonLd": true,
   "editors": [
@@ -171,16 +157,16 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
       "mailto": "bomos@logius.nl"
     }
   ],
-  "github": "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel",
+  "github": "https://github.com/Logius-standaarden/BOMOS-Beheermodel",
   "addSectionLinks": true,
   "a11y": false,
   "nl_addReleaseTagTitle": false,
   "nl_emailComments": "bomos@logius.nl",
   "nl_markdownSplitH1sections": true,
   "nl_github": {
-    "issueBase": "https://github.com/Logius-standaarden/Logius-Beheermodel/issues",
-    "revision": "https://github.com/Logius-standaarden/Logius-Beheermodel/commits",
-    "pullrequests": "https://github.com/Logius-standaarden/Logius-Beheermodel/pulls"
+    "issueBase": "https://github.com/Logius-standaarden/BOMOS-Beheermodel/issues",
+    "revision": "https://github.com/Logius-standaarden/BOMOS-Beheermodel/commits",
+    "pullrequests": "https://github.com/Logius-standaarden/BOMOS-Beheermodel/pulls"
   },
   "nl_organisationName": "Logius",
   "nl_organisationPrefix": "LS-",
@@ -338,8 +324,8 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
 
 <body class="h-entry"><div class="head">
     <a class="logo" href="https://www.logius.nl/standaarden"><img alt="Logius" height="77" id="Logius" src="https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg" width="44">
-  </a> <h1 id="title" class="title">[Titel van het document]</h1>
-
+  </a> <h1 id="title" class="title">BOMOS Beheermodel</h1>
+    
     <h2>
       Logius Handreiking<br>
       Werkversie
@@ -347,39 +333,39 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
-              <a class="u-url status" href="https://logius-standaarden.github.io/BOMOS-voorbeeld-beheermodel/">https://logius-standaarden.github.io/BOMOS-voorbeeld-beheermodel/</a>
+              <a class="u-url status" href="https://logius-standaarden.github.io/BOMOS-Beheermodel/">https://logius-standaarden.github.io/BOMOS-Beheermodel/</a>
             </dd><dt>Laatst gepubliceerde versie:</dt><dd>
-              <a href="https://publicatie.centrumvoorstandaarden.nl/bomos/template/">https://publicatie.centrumvoorstandaarden.nl/bomos/template/</a>
+              <a href="https://publicatie.centrumvoorstandaarden.nl/bomos/beheer/">https://publicatie.centrumvoorstandaarden.nl/bomos/beheer/</a>
             </dd>
-      <dt>Laatste werkversie:</dt><dd><a href="https://logius-standaarden.github.io/BOMOS-voorbeeld-beheermodel/">https://logius-standaarden.github.io/BOMOS-voorbeeld-beheermodel/</a></dd>
-
-
-
-      <dt>Vorige versie</dt><dd><a href="https://publicatie.centrumvoorstandaarden.nl/bomos/template/0.1/">https://publicatie.centrumvoorstandaarden.nl/bomos/template/0.1/</a></dd>
-
+      <dt>Laatste werkversie:</dt><dd><a href="https://logius-standaarden.github.io/BOMOS-Beheermodel/">https://logius-standaarden.github.io/BOMOS-Beheermodel/</a></dd>
+      
+      
+      
+      <dt>Vorige versie</dt><dd><a href="https://publicatie.centrumvoorstandaarden.nl/bomos/beheer/0.1/">https://publicatie.centrumvoorstandaarden.nl/bomos/beheer/0.1/</a></dd>
+      
       <dt>Redacteurs:</dt>
       <dd class="editor p-author h-card vcard">
     <a class="u-url url p-name fn" href="https://logius.nl/standaarden">Gül Işik</a> (<span class="p-org org h-org">Logius</span>)
   </dd><dd class="editor p-author h-card vcard">
     <a class="u-url url p-name fn" href="https://logius.nl/standaarden">Edwin Wisse</a> (<span class="p-org org h-org">Logius</span>)
   </dd>
-
+      
       <dt>Auteur:</dt><dd class="editor p-author h-card vcard">
     <a class="ed_mailto u-email email p-name" href="mailto:bomos@logius.nl">Logius</a>
   </dd>
       <dt>Doe mee:</dt><dd>
-    <a href="https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/">GitHub Logius-standaarden/BOMOS-voorbeeld-beheermodel</a>
+    <a href="https://github.com/Logius-standaarden/BOMOS-Beheermodel/">GitHub Logius-standaarden/BOMOS-Beheermodel</a>
   </dd><dd>
-    <a href="https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/issues/">Dien een melding in</a>
+    <a href="https://github.com/Logius-standaarden/BOMOS-Beheermodel/issues/">Dien een melding in</a>
   </dd><dd>
-    <a href="https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/commits/">Revisiehistorie</a>
+    <a href="https://github.com/Logius-standaarden/BOMOS-Beheermodel/commits/">Revisiehistorie</a>
   </dd><dd>
-    <a href="https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/pulls/">Pull requests</a>
+    <a href="https://github.com/Logius-standaarden/BOMOS-Beheermodel/pulls/">Pull requests</a>
   </dd>
     </dl>
-
-
-
+    
+    
+    
     <p class="copyright" lang="en">
           This document is licensed under a
           <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" class="subfoot">Creative Commons Attribution 4.0 License</a>.
@@ -388,7 +374,7 @@ var[data-type]:hover::after,var[data-type]:hover::before{opacity:1}
   </div>
   <section id="abstract" class="introductory"><h2>Samenvatting</h2>
     <p>
-      Samenvatting van het document - verplicht onderdeel.
+      Dit document beschrijft het Beheermodel van BOMOS.
     </p>
   </section>
   <section id="sotd" class="introductory"><h2>Status van dit document</h2>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het Technisch Overleg goedgekeurde consultatieversie.<p></p></section>
@@ -431,20 +417,15 @@ standaard die duurzaam beheerd wordt.</p>
 <p>De actuele versie van BOMOS 2.0 is op te vinden op xxx door xxx
 vastgesteld.</p>
 <p>Concept versie BOMOS 3.0 moet nog worden vastgesteld.</p>
-<p>Versie 2.0 BOMOS is gepubliceerd op:</p>
-<p><a href="https://github.com/centrumvoorstandaarden/BOMOS">https://github.com/centrumvoorstandaarden/BOMOS</a></p>
-<p>De laatste concept versie 3.0 BOMOS is gepubliceerd op:</p>
-<p><a href="https://github.com/centrumvoorstandaarden/BOMOS">https://github.com/centrumvoorstandaarden/BOMOS</a></p>
+<p>De laatste concept versie 3.0 BOMOS is gepubliceerd in twee delen: <a href="https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/">BOMOS Fundament</a> en <a href="https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/">BOMOS Verdieping</a></p>
 </section></section><section id="bomos"><div class="header-wrapper"><h3 id="x1-4-bomos"><bdi class="secno">1.4 </bdi>Bomos</h3><a class="self-link" href="#bomos" aria-label="Permalink for Section 1.4"></a></div>
 <p>Logius richt de beheerorganisatie in conform het Beheer en
 OntwikkelModel voor Open Standaarden (BOMOS). Ook dit beheer document is
 op basis van BOMOS ingericht.</p>
-<p><figure id="fig-generatedID"><img src="images/image3.png" alt="Bomos model" height="381" width="613"><figcaption>Figuur <bdi class="figno">1</bdi> <span class="fig-title"></span></figcaption></figure>{width="5.786111111111111in"
-height="3.5952416885389327in"}</p>
+<p><figure id="fig-bomos-model"><img src="images/image3.png" alt="Bomos model" title="BOMOS model"><figcaption>Figuur <bdi class="figno">1</bdi> <span class="fig-title">BOMOS model</span></figcaption></figure></p>
 </section></section>
   <section id="strategie"><div class="header-wrapper"><h2 id="x2-strategie"><bdi class="secno">2. </bdi>Strategie</h2><a class="self-link" href="#strategie" aria-label="Permalink for Section 2."></a></div>
-<p><figure id="fig-generatedID-0"><img src="images/image4.png" alt="" height="37" width="206" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken"><figcaption>Figuur <bdi class="figno">2</bdi> <span class="fig-title"></span></figcaption></figure>{width="2.1458333333333335in"
-height="0.3854166666666667in"}</p>
+<p><figure id="fig-strategie"><img src="images/image4.png" alt="Strategie" title="Strategie"><figcaption>Figuur <bdi class="figno">2</bdi> <span class="fig-title">Strategie</span></figcaption></figure></p>
 <section id="visie"><div class="header-wrapper"><h3 id="x2-1-visie"><bdi class="secno">2.1 </bdi>Visie</h3><a class="self-link" href="#visie" aria-label="Permalink for Section 2.1"></a></div>
 <ol>
 <li><p>De rol van beheerder en adviseur wordt steeds belangrijker in de
@@ -538,51 +519,31 @@ uitgewerkt. Dit beheer document zal voor review en officiële goedkeuring
 worden aangeboden door de uitvoeringsorganisatie (afdeling Standaarden)
 aan het bestuur en adviesorgaan BOMOS.</p>
 <p>Het voorstel is om met een aantal beheerorganisaties het te formeren:</p>
-<p><figure id="fig-generatedID-1"><img src="images/image5.png" alt="" height="574" width="1038" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-0"><figcaption>Figuur <bdi class="figno">3</bdi> <span class="fig-title"></span></figcaption></figure>{width="5.786111111111111in"
-height="3.1993055555555556in"}</p>
+<p><figure id="fig-bomos-organisatiestructuur"><img src="images/image5.png" alt="BOMOS Organisatiestructuur" title="BOMOS Organisatiestructuur"><figcaption>Figuur <bdi class="figno">3</bdi> <span class="fig-title">BOMOS Organisatiestructuur</span></figcaption></figure></p>
 <p>Bestuur groep:</p>
 <ul>
 <li>Directie Digitale Samenleving</li>
-</ul>
-<pre><code class="{=html} code hljs" aria-busy="false">&lt;!-- --&gt;
-</code></pre>
-<ul>
-<li><p>Logius afdeling Standaarden</p>
-</li>
-<li><p>Logius afdeling Portfolio</p>
-</li>
-<li><p>Bureau Forum Standaardisatie</p>
-</li>
+<li>Logius afdeling Standaarden</li>
+<li>Logius afdeling Portfolio</li>
+<li>Bureau Forum Standaardisatie</li>
 </ul>
 <p>Deelnemers Adviesorgaan/klankboordgroep:</p>
 <ul>
-<li><p>Kadaster</p>
-</li>
-<li><p>Geonovum</p>
-</li>
-<li><p>Directie Digitale Samenleving</p>
-</li>
-<li><p>KOOP</p>
-</li>
-<li><p>TNO</p>
-</li>
-<li><p>Bureau Forum Standaardisatie</p>
-</li>
-<li><p>Informatie Huis Water</p>
-</li>
-<li><p>RIONED</p>
-</li>
-<li><p>Logius afdeling Stelsels</p>
-</li>
-<li><p>Logius afdeling Standaarden</p>
-</li>
+<li>Kadaster</li>
+<li>Geonovum</li>
+<li>Directie Digitale Samenleving</li>
+<li>KOOP</li>
+<li>TNO</li>
+<li>Bureau Forum Standaardisatie</li>
+<li>Informatie Huis Water</li>
+<li>RIONED</li>
+<li>Logius afdeling Stelsels</li>
+<li>Logius afdeling Standaarden</li>
 </ul>
 <p>Uitvoeringsgroep</p>
 <ul>
-<li><p>Logius afdeling Standaarden</p>
-</li>
-<li><p>Logius afdeling Stelsels</p>
-</li>
+<li>Logius afdeling Standaarden</li>
+<li>Logius afdeling Stelsels</li>
 </ul>
 <p>De BOMOS Community is geen vast gremium, dit kunnen verschillende
 beheersorganisaties zijn die deel willen nemen aan de BOMOS Community.
@@ -655,8 +616,7 @@ Afdeling Standaarden, Adviesorgaan/klankboord BOMOS en BOMOS
 Community welke bestaan uit deelnemers van de beheersorganisaties.</p>
 </li>
 </ul>
-<p><figure id="fig-generatedID-2"><img src="images/image5.png" alt="" height="574" width="1038" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-1"><figcaption>Figuur <bdi class="figno">4</bdi> <span class="fig-title"></span></figcaption></figure>{width="5.786111111111111in"
-height="3.1993055555555556in"}</p>
+<p><figure id="fig-sturing"><img src="images/image5.png" alt="Sturing" title="Sturing"><figcaption>Figuur <bdi class="figno">4</bdi> <span class="fig-title">Sturing</span></figcaption></figure></p>
 </section><section id="stakeholders-betrokkenheid"><div class="header-wrapper"><h4 id="x2-2-4-stakeholders-betrokkenheid"><bdi class="secno">2.2.4 </bdi>Stakeholders-betrokkenheid</h4><a class="self-link" href="#stakeholders-betrokkenheid" aria-label="Permalink for Section 2.2.4"></a></div>
 <p>Het is duidelijk hoe stakeholders betrokken worden en hoe ze mee kunnen
 participeren en wat hun rol daarbij is. Relevante typen stakeholders
@@ -676,7 +636,8 @@ community via de website en de verschillende nieuwsbrieven. Uit de
 community worden de werkgroepen gevormd op het moment dat dit benodigd
 is. De vergaderdata en verslagen van deze werkgroepen zijn beschikbaar
 voor een ieder via
-<a href="https://github.com/centrumvoorstandaarden/BOMOS">BOMOS:(github.com)</a>.
+<a href="https://github.com/Logius-standaarden/BOMOS-Fundament">BOMOS Fundament</a>
+en <a href="https://github.com/Logius-standaarden/BOMOS-Verdieping">BOMOS Verdieping</a>.
 Inschrijven voor bijeenkomsten is mogelijk via xxxxx (via toekomstige
 weblink)</p>
 </section><section id="belangenorganisaties-betrokkenheid"><div class="header-wrapper"><h4 id="x2-2-5-belangenorganisaties-betrokkenheid"><bdi class="secno">2.2.5 </bdi>Belangenorganisaties-betrokkenheid</h4><a class="self-link" href="#belangenorganisaties-betrokkenheid" aria-label="Permalink for Section 2.2.5"></a></div>
@@ -699,8 +660,9 @@ klankboardgroepen voor het uitwisselen van kennis.</p>
 <p>Zowel de opdracht van de werkgroep als de wijze waarop over de
 resultaten en uitdagingen gerapporteerd wordt zijn beschreven.</p>
 <p>Nieuwe ideeën of wijzigingsverzoeken komen binnen bij de
-Uitvoeringsorganisatie (afdeling Standaarden) van Logius via <a href="https://centrumvoorstandaarden.github.io/BOMOS/index.html">BOMOS 3
-(centrumvoorstandaarden.github.io)</a>,
+Uitvoeringsorganisatie (afdeling Standaarden) van Logius via
+<a href="https://github.com/Logius-standaarden/BOMOS-Fundament">BOMOS Fundament</a>
+en <a href="https://github.com/Logius-standaarden/BOMOS-Verdieping">BOMOS Verdieping</a>,
 of via contacten in het netwerk van de medewerkers van de afdeling
 Standaarden of Stelsels. Zodra een nieuw initiatief zich aandient, in de
 vorm van een opdracht, zorgt de afdeling Standaarden ervoor dat het
@@ -716,12 +678,10 @@ Zaken en Koninklijk relaties en via het jaarverslag.</p>
 <p>De structurele financiering is gebaseerd op een grondige behoefte
 analyse zoals hieronder in kaart gebracht, voor het beheren en
 doorontwikkelen van de standaard.</p>
-<p><figure id="fig-generatedID-3"><img src="images/image6.png" alt="" height="584" width="699" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-2"><figcaption>Figuur <bdi class="figno">5</bdi> <span class="fig-title"></span></figcaption></figure>{width="5.786111111111111in"
-height="4.834027777777778in"}</p>
+<p><figure id="fig-behoefteanalyse"><img src="images/image6.png" alt="Behoefteanalyse" title="Behoefteanalyse"><figcaption>Figuur <bdi class="figno">5</bdi> <span class="fig-title">Behoefteanalyse</span></figcaption></figure></p>
 </section></section></section>
   <section id="tactiek"><div class="header-wrapper"><h2 id="x3-tactiek"><bdi class="secno">3. </bdi>Tactiek</h2><a class="self-link" href="#tactiek" aria-label="Permalink for Section 3."></a></div>
-<p><figure id="fig-generatedID-4"><img src="images/image7.png" alt="" height="44" width="213" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-3"><figcaption>Figuur <bdi class="figno">6</bdi> <span class="fig-title"></span></figcaption></figure>{width="2.4545450568678917in"
-height="0.4583333333333333in"}</p>
+<p><figure id="fig-tactiek"><img src="images/image7.png" alt="Tactiek" title="Tactiek"><figcaption>Figuur <bdi class="figno">6</bdi> <span class="fig-title">Tactiek</span></figcaption></figure></p>
 <section id="community"><div class="header-wrapper"><h3 id="x3-1-community"><bdi class="secno">3.1 </bdi>Community</h3><a class="self-link" href="#community" aria-label="Permalink for Section 3.1"></a></div>
 <p>Deelname aan de community kent geen drempels of restricties. De leden
 van de community werken in verschillende beheerorganisaties en kunnen
@@ -881,8 +841,7 @@ zoveel mogelijk belangstellenden en belanghebbenden betrokken zijn bij
 wijzigingen en besluitvorming.</p>
 </section></section>
   <section id="operationeel"><div class="header-wrapper"><h2 id="x4-operationeel"><bdi class="secno">4. </bdi>Operationeel</h2><a class="self-link" href="#operationeel" aria-label="Permalink for Section 4."></a></div>
-<p><figure id="fig-generatedID-5"><img src="images/image8.png" alt="" height="44" width="277" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-4"><figcaption>Figuur <bdi class="figno">7</bdi> <span class="fig-title"></span></figcaption></figure>{width="2.8854166666666665in"
-height="0.4583333333333333in"}</p>
+<p><figure id="fig-operationeel"><img src="images/image8.png" alt="Operationeel" title="Operationeel"><figcaption>Figuur <bdi class="figno">7</bdi> <span class="fig-title">Operationeel</span></figcaption></figure></p>
 <section id="initiatie"><div class="header-wrapper"><h3 id="x4-1-initiatie"><bdi class="secno">4.1 </bdi>Initiatie</h3><a class="self-link" href="#initiatie" aria-label="Permalink for Section 4.1"></a></div>
 <p>Uitbreidingen en aanpassingen in de standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
@@ -958,8 +917,7 @@ en <a href="https://github.com/Logius-standaarden/BOMOS-Verdieping">BOMOS Verdie
 En vindbaar via de <a href="https://www.logius.nl/diensten/bomos">Logius website</a></p>
 </section></section>
   <section id="implementatieondersteuning"><div class="header-wrapper"><h2 id="x5-implementatieondersteuning"><bdi class="secno">5. </bdi>Implementatieondersteuning</h2><a class="self-link" href="#implementatieondersteuning" aria-label="Permalink for Section 5."></a></div>
-<p><figure id="fig-generatedID-6"><img src="images/image9.png" alt="" height="43" width="394" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-5"><figcaption>Figuur <bdi class="figno">8</bdi> <span class="fig-title"></span></figcaption></figure>{width="4.104166666666667in"
-height="0.4479166666666667in"}</p>
+<p><figure id="fig-implementatieondersteuning"><img src="images/image9.png" alt="Implementatieondersteuning" title="Implementatieondersteuning"><figcaption>Figuur <bdi class="figno">8</bdi> <span class="fig-title">Implementatieondersteuning</span></figcaption></figure></p>
 <section id="opleiding-en-advies"><div class="header-wrapper"><h3 id="x5-1-opleiding-en-advies"><bdi class="secno">5.1 </bdi>Opleiding en advies</h3><a class="self-link" href="#opleiding-en-advies" aria-label="Permalink for Section 5.1"></a></div>
 <p>Logius biedt momenteel geen opleiding aan, maar borgt dat de informatie
 m.b.t. de standaard altijd, zonder drempels, toegankelijk is via de
@@ -984,7 +942,7 @@ van standaarden. BOMOS is niet verplicht en is ook geen
 conformiteitsbeoordeling.</p>
 </section></section>
   <section id="communicatie"><div class="header-wrapper"><h2 id="x6-communicatie"><bdi class="secno">6. </bdi>Communicatie</h2><a class="self-link" href="#communicatie" aria-label="Permalink for Section 6."></a></div>
-<p><figure id="fig-generatedID-7"><img src="images/image10.png" alt="" height="51" width="258" class="respec-offending-element" title="Alle informatieve figuren dienen over een tekstueel alternatief te beschikken." id="respec-offender-alle-informatieve-figuren-dienen-over-een-tekstueel-alternatief-te-beschikken-6"><figcaption>Figuur <bdi class="figno">9</bdi> <span class="fig-title"></span></figcaption></figure>{width="2.6875in" height="0.53125in"}</p>
+<p><figure id="fig-communicatie"><img src="images/image10.png" alt="Communicatie" title="Communicatie"><figcaption>Figuur <bdi class="figno">9</bdi> <span class="fig-title">Communicatie</span></figcaption></figure></p>
 <section id="promotie"><div class="header-wrapper"><h3 id="x6-1-promotie"><bdi class="secno">6.1 </bdi>Promotie</h3><a class="self-link" href="#promotie" aria-label="Permalink for Section 6.1"></a></div>
 <p>Logius is promotor van de standaard. Zowel intern voor de toepassing van
 de standaard in Logius voorzieningen als extern, door andere partijen te
@@ -1210,32 +1168,32 @@ In het onderstaande voorbeeld zien wij een standaard van 1.0.0 naar 1.1.0 ontwik
 <p>Het kan voorkomen dat gewenst wordt vlug een kleine (niet inhoudelijke) aanpassing aan de gepubliceerde versie te maken. Om bijvoorbeeld een spelfout vlug te corrigeren kan deze aanpassing op main i.p.v. develop worden uitgevoerd. In het voorbeeld leidde een hotfix tot een release van versie 1.0.1 waarna de aanpassing naar de werkversie geduwd wordt.</p>
 </aside></section></section>
 
-
+    
     <section id="conformance"><div class="header-wrapper"><h2 id="x10-conformiteit"><bdi class="secno">10. </bdi>Conformiteit</h2><a class="self-link" href="#conformance" aria-label="Permalink for Section 10."></a></div><p>Naast onderdelen die als niet normatief gemarkeerd zijn, zijn ook alle diagrammen, voorbeelden, en noten in dit document niet normatief. Verder is alles in dit document normatief.</p>
-
+      
     </section>
 
     <section id="tof">
-
+      
     <div class="header-wrapper"><h2 id="x11-lijst-met-figuren"><bdi class="secno">11. </bdi>Lijst met figuren</h2><a class="self-link" href="#tof" aria-label="Permalink for Section 11."></a></div><ul class="tof">
         <li class="tofline">
-    <a class="tocxref" href="#fig-generatedID">Figuur <bdi class="figno">1</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-bomos-model">Figuur <bdi class="figno">1</bdi> <span class="fig-title">BOMOS model</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-0">Figuur <bdi class="figno">2</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-strategie">Figuur <bdi class="figno">2</bdi> <span class="fig-title">Strategie</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-1">Figuur <bdi class="figno">3</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-bomos-organisatiestructuur">Figuur <bdi class="figno">3</bdi> <span class="fig-title">BOMOS Organisatiestructuur</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-2">Figuur <bdi class="figno">4</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-sturing">Figuur <bdi class="figno">4</bdi> <span class="fig-title">Sturing</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-3">Figuur <bdi class="figno">5</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-behoefteanalyse">Figuur <bdi class="figno">5</bdi> <span class="fig-title">Behoefteanalyse</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-4">Figuur <bdi class="figno">6</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-tactiek">Figuur <bdi class="figno">6</bdi> <span class="fig-title">Tactiek</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-5">Figuur <bdi class="figno">7</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-operationeel">Figuur <bdi class="figno">7</bdi> <span class="fig-title">Operationeel</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-6">Figuur <bdi class="figno">8</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-implementatieondersteuning">Figuur <bdi class="figno">8</bdi> <span class="fig-title">Implementatieondersteuning</span></a>
   </li><li class="tofline">
-    <a class="tocxref" href="#fig-generatedID-7">Figuur <bdi class="figno">9</bdi> <span class="fig-title"></span></a>
+    <a class="tocxref" href="#fig-communicatie">Figuur <bdi class="figno">9</bdi> <span class="fig-title">Communicatie</span></a>
   </li><li class="tofline">
     <a class="tocxref" href="#Gitflow">Figuur <bdi class="figno">10</bdi> <span class="fig-title">Gitflow</span></a>
   </li>
@@ -1244,23 +1202,23 @@ In het onderstaande voorbeeld zien wij een standaard van 1.0.0 naar 1.1.0 ontwik
     <nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#inleiding"><bdi class="secno">1. </bdi>Inleiding</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#leeswijzer"><bdi class="secno">1.1 </bdi>Leeswijzer</a></li><li class="tocline"><a class="tocxref" href="#bomos-versie-2-naar-versie-3"><bdi class="secno">1.2 </bdi>BOMOS versie 2 naar versie 3</a></li><li class="tocline"><a class="tocxref" href="#nut"><bdi class="secno">1.3 </bdi>Nut</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#werking"><bdi class="secno">1.3.1 </bdi>Werking</a></li><li class="tocline"><a class="tocxref" href="#status"><bdi class="secno">1.3.2 </bdi>Status</a></li></ol></li><li class="tocline"><a class="tocxref" href="#bomos"><bdi class="secno">1.4 </bdi>Bomos</a></li></ol></li><li class="tocline"><a class="tocxref" href="#strategie"><bdi class="secno">2. </bdi>Strategie</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#visie"><bdi class="secno">2.1 </bdi>Visie</a></li><li class="tocline"><a class="tocxref" href="#governance"><bdi class="secno">2.2 </bdi>Governance</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#organisatiestructuur"><bdi class="secno">2.2.1 </bdi>Organisatiestructuur</a></li><li class="tocline"><a class="tocxref" href="#besluitvorming"><bdi class="secno">2.2.2 </bdi>Besluitvorming</a></li><li class="tocline"><a class="tocxref" href="#sturing-strategisch"><bdi class="secno">2.2.3 </bdi>Sturing strategisch</a></li><li class="tocline"><a class="tocxref" href="#stakeholders-betrokkenheid"><bdi class="secno">2.2.4 </bdi>Stakeholders-betrokkenheid</a></li><li class="tocline"><a class="tocxref" href="#belangenorganisaties-betrokkenheid"><bdi class="secno">2.2.5 </bdi>Belangenorganisaties-betrokkenheid</a></li><li class="tocline"><a class="tocxref" href="#opdracht-werkgroepen"><bdi class="secno">2.2.6 </bdi>Opdracht werkgroepen</a></li></ol></li><li class="tocline"><a class="tocxref" href="#structureel-financieel-model"><bdi class="secno">2.3 </bdi>Structureel financieel model</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#behoefteanalyse"><bdi class="secno">2.3.1 </bdi>Behoefteanalyse</a></li></ol></li></ol></li><li class="tocline"><a class="tocxref" href="#tactiek"><bdi class="secno">3. </bdi>Tactiek</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#community"><bdi class="secno">3.1 </bdi>Community</a></li><li class="tocline"><a class="tocxref" href="#architectuur"><bdi class="secno">3.2 </bdi>Architectuur</a></li><li class="tocline"><a class="tocxref" href="#jaarplan-ontwikkelagenda"><bdi class="secno">3.3 </bdi>Jaarplan/Ontwikkelagenda</a></li><li class="tocline"><a class="tocxref" href="#pilots"><bdi class="secno">3.4 </bdi>Pilots</a></li><li class="tocline"><a class="tocxref" href="#adoptiestrategie"><bdi class="secno">3.5 </bdi>Adoptiestrategie</a></li><li class="tocline"><a class="tocxref" href="#rechtenbeleid"><bdi class="secno">3.6 </bdi>Rechtenbeleid</a></li><li class="tocline"><a class="tocxref" href="#kwaliteitsbeleid-en-benchmarking"><bdi class="secno">3.7 </bdi>Kwaliteitsbeleid en benchmarking</a></li></ol></li><li class="tocline"><a class="tocxref" href="#operationeel"><bdi class="secno">4. </bdi>Operationeel</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#initiatie"><bdi class="secno">4.1 </bdi>Initiatie</a></li><li class="tocline"><a class="tocxref" href="#wensen-en-eisen"><bdi class="secno">4.2 </bdi>Wensen en Eisen</a></li><li class="tocline"><a class="tocxref" href="#uitvoering-en-ontwikkeling-wijzigingsproces"><bdi class="secno">4.3 </bdi>Uitvoering en ontwikkeling (Wijzigingsproces)</a></li><li class="tocline"><a class="tocxref" href="#status-van-de-standaard"><bdi class="secno">4.4 </bdi>Status van de standaard</a></li><li class="tocline"><a class="tocxref" href="#documentatie"><bdi class="secno">4.5 </bdi>Documentatie</a></li></ol></li><li class="tocline"><a class="tocxref" href="#implementatieondersteuning"><bdi class="secno">5. </bdi>Implementatieondersteuning</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#opleiding-en-advies"><bdi class="secno">5.1 </bdi>Opleiding en advies</a></li><li class="tocline"><a class="tocxref" href="#helpdesk"><bdi class="secno">5.2 </bdi>Helpdesk</a></li><li class="tocline"><a class="tocxref" href="#validatie-certificatie"><bdi class="secno">5.3 </bdi>Validatie &amp; Certificatie</a></li></ol></li><li class="tocline"><a class="tocxref" href="#communicatie"><bdi class="secno">6. </bdi>Communicatie</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#promotie"><bdi class="secno">6.1 </bdi>Promotie</a></li><li class="tocline"><a class="tocxref" href="#publicatie"><bdi class="secno">6.2 </bdi>Publicatie</a></li><li class="tocline"><a class="tocxref" href="#klachtenafhandeling"><bdi class="secno">6.3 </bdi>Klachtenafhandeling</a></li></ol></li><li class="tocline"><a class="tocxref" href="#bijlage-gebruik-respec"><bdi class="secno">7. </bdi>Bijlage: Gebruik ReSpec</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#logius-profiel"><bdi class="secno">7.1 </bdi>Logius profiel</a></li><li class="tocline"><a class="tocxref" href="#literatuurverwijzingen"><bdi class="secno">7.2 </bdi>Literatuurverwijzingen</a></li><li class="tocline"><a class="tocxref" href="#links"><bdi class="secno">7.3 </bdi>Links</a></li></ol></li><li class="tocline"><a class="tocxref" href="#bijlage-gebruik-github-in-het-beheerproces"><bdi class="secno">8. </bdi>Bijlage: Gebruik GitHub in het beheerproces</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#publicatie-0"><bdi class="secno">8.1 </bdi>Publicatie</a></li><li class="tocline"><a class="tocxref" href="#wijzigingsvoorstellen"><bdi class="secno">8.2 </bdi>Wijzigingsvoorstellen</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#branches"><bdi class="secno">8.2.1 </bdi>Branches</a></li><li class="tocline"><a class="tocxref" href="#labels"><bdi class="secno">8.2.2 </bdi>Labels</a></li></ol></li><li class="tocline"><a class="tocxref" href="#automatisering-en-scripts"><bdi class="secno">8.3 </bdi>Automatisering en scripts</a></li></ol></li><li class="tocline"><a class="tocxref" href="#bijlage-versie-nummering-logius-standaarden"><bdi class="secno">9. </bdi>Bijlage: versie-nummering Logius standaarden</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#versioneringsmethodiek"><bdi class="secno">9.1 </bdi>Versioneringsmethodiek</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#patch-releases"><bdi class="secno">9.1.1 </bdi>Patch Releases</a></li><li class="tocline"><a class="tocxref" href="#minor-releases"><bdi class="secno">9.1.2 </bdi>Minor releases</a></li><li class="tocline"><a class="tocxref" href="#major-releases"><bdi class="secno">9.1.3 </bdi>Major Releases</a></li></ol></li><li class="tocline"><a class="tocxref" href="#toelichting-en-voorbeeld-regels"><bdi class="secno">9.2 </bdi>Toelichting en voorbeeld regels</a></li><li class="tocline"><a class="tocxref" href="#versie-overgangen"><bdi class="secno">9.3 </bdi>Versie overgangen</a></li></ol></li><li class="tocline"><a class="tocxref" href="#conformance"><bdi class="secno">10. </bdi>Conformiteit</a></li><li class="tocline"><a class="tocxref" href="#tof"><bdi class="secno">11. </bdi>Lijst met figuren</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</a></li></ol></li><li class="tocline"><a class="tocxref" href="#github-contributors"><bdi class="secno">B. </bdi>Contributors</a></li><li class="tocline"><a class="tocxref" href="#references"><bdi class="secno">C. </bdi>Referenties</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#normatieve-referenties"><bdi class="secno">C.1 </bdi>Normatieve referenties</a></li></ol></li></ol></nav>
 
     <section id="index" class="appendix"><div class="header-wrapper"><h2 id="a-index"><bdi class="secno">A. </bdi>Index</h2><a class="self-link" href="#index" aria-label="Permalink for Appendix A."></a></div>
-
+      
     <section id="index-defined-here">
     <div class="header-wrapper"><h3 id="a-1-begrippen-gedefinieerd-door-deze-specificatie"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</h3><a class="self-link" href="#index-defined-here" aria-label="Permalink for Appendix A.1"></a></div>
     <ul class="index">
-
+    
   </ul>
   </section><section id="index-defined-elsewhere">
     <div class="header-wrapper"><h3 id="a-2-begrippen-gedefinieerd-door-verwijzing"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</h3><a class="self-link" href="#index-defined-elsewhere" aria-label="Permalink for Appendix A.2"></a></div>
     <ul class="index">
-
+    
   </ul>
   </section></section>
 
     <section id="github-contributors">
       <div class="header-wrapper"><h2 id="b-contributors"><bdi class="secno">B. </bdi>Contributors</h2><a class="self-link" href="#github-contributors" aria-label="Permalink for Section B."></a></div>
-      <p id="gh-contributors">Alexander Green, Edwin Wisze, Logius Standaardenbeheer en Martin van der Plas</p>
-
+      <p id="gh-contributors">Failed to fetch contributors.</p>
+      
     </section>
 
 
