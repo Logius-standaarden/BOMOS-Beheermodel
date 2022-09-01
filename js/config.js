@@ -121,6 +121,13 @@ var respecConfig = {
   //   },
   // ],
 
+  alternateFormats: [
+    {
+      label: "pdf",
+      uri: "BOMOS-Beheermodel.pdf",
+    },
+  ],
+
   // You can use markdown to write ReSpec based documents.
   // format: "markdown",
   // <section data-format="markdown" data-include="<filename>.md"></section>
