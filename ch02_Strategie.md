@@ -1,8 +1,7 @@
 
 # Strategie
 
-![](images/image4.png){width="2.1458333333333335in"
-height="0.3854166666666667in"}
+![Strategie](images/image4.png "Strategie")
 
 ## Visie
 
@@ -105,48 +104,31 @@ aan het bestuur en adviesorgaan BOMOS.
 
 Het voorstel is om met een aantal beheerorganisaties het te formeren:
 
-![](images/image5.png){width="5.786111111111111in"
-height="3.1993055555555556in"}
+![BOMOS Organisatiestructuur](images/image5.png "BOMOS Organisatiestructuur")
 
 Bestuur groep:
 
 -   Directie Digitale Samenleving
-
-```{=html}
-<!-- -->
-```
 -   Logius afdeling Standaarden
-
 -   Logius afdeling Portfolio
-
 -   Bureau Forum Standaardisatie
 
 Deelnemers Adviesorgaan/klankboordgroep:
 
 -   Kadaster
-
 -   Geonovum
-
 -   Directie Digitale Samenleving
-
 -   KOOP
-
 -   TNO
-
 -   Bureau Forum Standaardisatie
-
 -   Informatie Huis Water
-
 -   RIONED
-
 -   Logius afdeling Stelsels
-
 -   Logius afdeling Standaarden
 
 Uitvoeringsgroep
 
 -   Logius afdeling Standaarden
-
 -   Logius afdeling Stelsels
 
 De BOMOS Community is geen vast gremium, dit kunnen verschillende
@@ -226,8 +208,7 @@ dienstverleners van de beheerorganisaties zitting hebben:
     Afdeling Standaarden, Adviesorgaan/klankboord BOMOS en BOMOS
     Community welke bestaan uit deelnemers van de beheersorganisaties.
 
-![](images/image5.png){width="5.786111111111111in"
-height="3.1993055555555556in"}
+![Sturing](images/image5.png "Sturing")
 
 ### Stakeholders-betrokkenheid
 
@@ -250,7 +231,8 @@ community via de website en de verschillende nieuwsbrieven. Uit de
 community worden de werkgroepen gevormd op het moment dat dit benodigd
 is. De vergaderdata en verslagen van deze werkgroepen zijn beschikbaar
 voor een ieder via
-[BOMOS:(github.com)](https://github.com/centrumvoorstandaarden/BOMOS).
+[BOMOS Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)
+en [BOMOS Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping).
 Inschrijven voor bijeenkomsten is mogelijk via xxxxx (via toekomstige
 weblink)
 
@@ -279,8 +261,9 @@ Zowel de opdracht van de werkgroep als de wijze waarop over de
 resultaten en uitdagingen gerapporteerd wordt zijn beschreven.
 
 Nieuwe ideeën of wijzigingsverzoeken komen binnen bij de
-Uitvoeringsorganisatie (afdeling Standaarden) van Logius via [BOMOS 3
-(centrumvoorstandaarden.github.io)](https://centrumvoorstandaarden.github.io/BOMOS/index.html),
+Uitvoeringsorganisatie (afdeling Standaarden) van Logius via
+[BOMOS Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)
+en [BOMOS Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping),
 of via contacten in het netwerk van de medewerkers van de afdeling
 Standaarden of Stelsels. Zodra een nieuw initiatief zich aandient, in de
 vorm van een opdracht, zorgt de afdeling Standaarden ervoor dat het
@@ -301,7 +284,4 @@ De structurele financiering is gebaseerd op een grondige behoefte
 analyse zoals hieronder in kaart gebracht, voor het beheren en
 doorontwikkelen van de standaard.
 
-![](images/image6.png){width="5.786111111111111in"
-height="4.834027777777778in"}
-
-
+![Behoefteanalyse](images/image6.png "Behoefteanalyse")

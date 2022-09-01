@@ -41,7 +41,7 @@ var respecConfig = {
   // currently, the 'this version' url will only point to the [publication server] if specStatus is "DEF"
   // otherwise it will refer to the the github.io environment
   // (if this parameter does not exist the publisDate will be used.)
-  publishVersion: "1.0",
+  publishVersion: "0.5",
 
   // The previous version preferably in SEMVER notation
   // for Logius specifications this field is optional: if this parameters exists this value will be used as directory name
@@ -53,7 +53,7 @@ var respecConfig = {
   pubDomain: "bomos",
 
   // The specification's "short name", is used in NL_Respec URLs in the following way: `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<conf.shortName>/`
-  shortName: "template",
+  shortName: "beheer",
 
   // Based on the example settings Respec will generate the following links in the header:
   // https://publicatie.centrumvoorstandaarden.nl/dk/ebms/
@@ -96,7 +96,7 @@ var respecConfig = {
   }
   ],
   // The github option allows you associate your specification with a repository on GitHub.
-  github: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel",
+  github: "https://github.com/Logius-standaarden/BOMOS-Beheermodel",
 
   // The URL of your test suite, gets included in the specification's headers.
   // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
@@ -141,9 +141,9 @@ var respecConfig = {
   // thi scan be configured below
   // if not set, the url's will be generated on the respecConfig.github automatically
   nl_github: {
-    issueBase: "https://github.com/Logius-standaarden/Logius-Beheermodel/issues",
-    revision: "https://github.com/Logius-standaarden/Logius-Beheermodel/commits",
-    pullrequests: "https://github.com/Logius-standaarden/Logius-Beheermodel/pulls"
+    issueBase: "https://github.com/Logius-standaarden/BOMOS-Beheermodel/issues",
+    revision: "https://github.com/Logius-standaarden/BOMOS-Beheermodel/commits",
+    pullrequests: "https://github.com/Logius-standaarden/BOMOS-Beheermodel/pulls"
   },
 
   // nl_organisationName is used for some company specific values in the header (and Sotd)
@@ -220,7 +220,6 @@ var respecConfig = {
       href: "https://www.logius.nl/diensten/pkioverheid/aansluiten-als-tsp/toegetreden-vertrouwensdienstverleners",
       title: "Toegetreden vertrouwensdienstverleners",
       publisher: "Logius",
-    },
     "PKIoverheid Certificaten": {
       href: "https://cert.pkioverheid.nl/",
       title: "Pkioverheid certificaten",

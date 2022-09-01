@@ -1,6 +1,6 @@
 # Communicatie
 
-![](images/image10.png){width="2.6875in" height="0.53125in"}
+![Communicatie](images/image10.png "Communicatie")
 
 ## Promotie
 

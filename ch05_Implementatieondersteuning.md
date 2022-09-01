@@ -1,7 +1,6 @@
 # Implementatieondersteuning
 
-![](images/image9.png){width="4.104166666666667in"
-height="0.4479166666666667in"}
+![Implementatieondersteuning](images/image9.png "Implementatieondersteuning")
 
 ## Opleiding en advies
 

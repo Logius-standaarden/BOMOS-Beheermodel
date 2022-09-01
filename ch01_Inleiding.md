@@ -50,13 +50,8 @@ vastgesteld.
 
 Concept versie BOMOS 3.0 moet nog worden vastgesteld.
 
-Versie 2.0 BOMOS is gepubliceerd op:
 
-<https://github.com/centrumvoorstandaarden/BOMOS>
-
-De laatste concept versie 3.0 BOMOS is gepubliceerd op:
-
-<https://github.com/centrumvoorstandaarden/BOMOS>
+De laatste concept versie 3.0 BOMOS is gepubliceerd iin twee delen: [BOMOS Fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS Verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
 
 ## Bomos
 
@@ -64,6 +59,4 @@ Logius richt de beheerorganisatie in conform het Beheer en
 OntwikkelModel voor Open Standaarden (BOMOS). Ook dit beheer document is
 op basis van BOMOS ingericht.
 
-![Bomos model](images/image3.png){width="5.786111111111111in"
-height="3.5952416885389327in"}
-
+![Bomos model](images/image3.png "BOMOS model")

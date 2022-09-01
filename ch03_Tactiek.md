@@ -2,8 +2,7 @@
 
 # Tactiek
 
-![](images/image7.png){width="2.4545450568678917in"
-height="0.4583333333333333in"}
+![Tactiek](images/image7.png "Tactiek")
 
 ## Community
 

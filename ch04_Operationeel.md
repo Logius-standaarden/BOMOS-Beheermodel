@@ -2,8 +2,7 @@
 
 # Operationeel
 
-![](images/image8.png){width="2.8854166666666665in"
-height="0.4583333333333333in"}
+![Operationeel](images/image8.png "Operationeel")
 
 ## Initiatie
 
@@ -88,4 +87,3 @@ Versie 3.0 van BOMOS is gepubliceerd op:
 [BOMOS Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)
 en [BOMOS Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping).
 En vindbaar via de [Logius website](https://www.logius.nl/diensten/bomos)
-
