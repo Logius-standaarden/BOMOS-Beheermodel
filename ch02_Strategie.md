@@ -1,170 +1,307 @@
+
 # Strategie
 
-De strategische activiteiten van BOMOS bestaan uit de onderdelen
-Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
-het beheer van _xxxx_ worden hieronder beschreven.
+![](images/image4.png){width="2.1458333333333335in"
+height="0.3854166666666667in"}
 
 ## Visie
 
-Met de xxx standaard wil de Nederlandse overheid interoperabiliteit
-bevorderen. Dit komt erop neer dat overheden dezelfde standaard in
-vergelijkbare situaties toepassen. Dit maakt uiteindelijk dat
-componenten en systemen onderling effectief gegevens uit kunnen
-wisselen. Zowel horizontaal in één voorziening binnen één situatie als
-verticaal tussen voorzieningen in verschillende situaties en tussen
-organisaties. Deze doelstelling wordt onderschreven door een breed
-scala aan partijen die deelnemen aan het xxx Kennisplatform, waar de
-ontwikkeling van de standaard zijn oorsprong heeft, en is bestendigd
-door Forum
+1.  De rol van beheerder en adviseur wordt steeds belangrijker in de
+    digitale samenleving. Aan de hand van de ervaring van verschillende
+    beheerpartijen, willen we het beheer van de afdeling stelsels en
+    standaarden nog effectiever kunnen inrichten en daarmee het
+    draagvlak en de adoptie van de standaarden verhogen. Nog een
+    belangrijke redenen is om interoperabiliteit na te streven om zo
+    effectiviteit en efficiency in het samenwerken te realiseren met
+    bijvoorbeeld beheerorganisatie, toeleveranciers en klanten in de
+    keten. Drie concrete zaken voor de doorontwikkeling van BOMOS: Een
+    nieuwe versie uitbrengen van BOMOS met nieuwe inzichten en een
+    bredere scope dan de huidige versie (de methode wordt in de nieuwe
+    versie bijvoorbeeld ook toegepast op stelsels)
 
-Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid
-(OBDO), die xxxx standaard hebben opgenomen op de zogenaamde ‘pas toe
-of leg uit’-lijst met andere standaarden die interoperabiliteit
-bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
+2.  We willen BOMOS de basis maken van ons standaardenbeheer.
+    Bijvoorbeeld de beheerplannen en governance van standaarden
+    beschrijven volgens BOMOS, alsmede offertes voor eventuele nieuwe
+    standaarden om zo meer uniformiteit aan te brengen in het beheer van
+    de standaarden van onze afdeling. Dit verhoogd de kwaliteit van onze
+    processen en documenten en maakt dat we als team sneller en
+    flexibeler kunnen reageren op verzoeken om nieuwe standaarden in
+    beheer te nemen.
 
-De toetsingsprocedure voor opname van een standaard op _pas toe of leg
-uit_ lijst bestaat uit de volgende
-
-stappen:
-
-1. Aanmelding
-2. Intake
-3. Expertonderzoek
-4. Openbare consultatie
-5. Advisering door het Forum Standaardisatie
-6. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale Overheid
-
-Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten met open standaarden (forumstandaardisatie.nl)](https://www.forumstandaardisatie.nl/sites/default/files/BFS/3-lijsten/standaarden-aanmelden/toetsen/Toetsingsprocedure-en-criteria-22_0.pdf)
+3.  We willen onze kennis delen met andere organisaties, die ook
+    standaarden of stelsels beheren, en met hen kennis uitwisselen. Dit
+    is gunstig bij het blijven actualiseren van de BOMOS.
 
 ## Governance
-Bij het beheer van een open standaard hoort een open governance en een
-open procedure voor belanghebbenden om te kunnen participeren in het
-beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
-beheerpartij en facilitator. Logius gaat uit van de governance van de
-Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
-is een governance opgesteld waarin de stakeholders van Logius richting
-geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
-deze governance.
 
-![MIDO governance](images/MIDOgovernance.png "MIDO governance")
+BOMOS is het Beheer- en OntwikkelModel voor Open Standaarden. Het is een
+instrument dat helpt bij de inrichting van het beheer van open
+standaarden. Dit maakt BOMOS als het ware een standaard voor het beheren
+van standaarden. BOMOS bestaat uit een bundeling van best practices en
+voorbeelden van goed standaardenbeheer. Het is ontwikkeld door de
+BOMOS-community en voor iedereen vrij te gebruiken.
 
-De MIDO governance kent vier _programmeringstafels_ op de thema's _Gegevensuitwisseling_, _Infrastructuur_, _Interactie_ en _Toegang_. Op de tafels wordt de ontwikkeling en prioritering van de door Logius beheerde stelsels, standaarden en diensten besproken met de stakeholders.
-
-### Governancestructuur
+De governance, bestuurlijke organisatie en besluitvorming voor BOMOS
+wordt momenteel ingericht. Samenwerking met andere
+standaardisatieorganisaties wordt onderdeel van de governance.
 
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
-beheer. xxx neemt hierin de rol van onafhankelijke, duurzame
-beheerpartij en facilitator. Bij het beheer van de xxx worden
-verschillende gremia onderscheiden die gezamenlijk invulling geven aan
-de governance op de standaard:
+beheer. Logius, afdeling Standaarden neemt hierin de rol van
+onafhankelijke, duurzame beheerpartij en facilitator. Bij het beheer van
+BOMOS worden verschillende gremia onderscheiden die gezamenlijk
+invulling geven aan de governance op de standaard:
 
-####  _xxxx_-community
+1.  ***Uitvoeringsorganisatie (Uitvoering Groep - UG) Operationeel***
+
+Het is een Operationeel Overleg met periodieke bijeenkomsten *(1 x per
+maand)* waarbij de vragen en doorontwikkel wensen m.b.t. BOMOS worden
+doorgenomen, geprioriteerd en worden uitgewerkt. Daarnaast wordt door de
+leden de releaseplanning en de roadmap opgesteld en voorgelegd aan het
+AG.
+
+2.  ***Adviesorgaan en Klankbordgroep BOMOS (Advies Groep - AG)
+    Tactisch***
+
+Het is een Technisch Overleg met periodieke bijeenkomsten *(1 x per
+kwartaal)* waarbij de vragen en doorontwikkel wensen m.b.t. BOMOS worden
+doorgenomen, geprioriteerd en worden uitgewerkt. Dit gremium is
+verantwoordelijk voor het vaststellen van de doorontwikkel-roadmap, het
+vaststellen van releases van de standaard en dient als het voorportaal
+van het strategisch/besluitvormende gremium.
+
+3.  ***Directie Digitale Samenleving (Bestuur groep - BG) Strategisch***
+
+Dit is het hoogst ambtelijke gremium dat besluit over major releases van
+de standaard, het beheermodel van de standaard en externe publicaties
+over releases en van het standaardenbeleid. Het BG overleg BOMOS is
+momenteel nog niet actief, waardoor de UG bij wijzigingen aan de
+standaard, de nieuwe versie voorlegt aan het AG voor het borgen van een
+zo breed mogelijke afstemming met verschillende belanghebbenden.
+
+N.B. De definitieve invulling van de tactische en strategische laag
+wordt Q1 2022 duidelijk.
+
+4.  ***BOMOS Community (Uitvoering Groep - UG) Operationeel***
 
 Dit is het meest operationele gremium waarin iedere
-belangstellende/belanghebbende vragen kan stellen over de
-xxx-standaard en suggesties kan doen voor de doorontwikkeling van de
-standaard. Dergelijke vragen en suggesties worden door Logius Standaardenbeheer verzameld
-en voorgelegd aan het Technisch Overleg en als issue geregistreerd bij
-de werkgroep _xxxx_ van het kennisplatform _xxxx_.
+belangstellende/belanghebbende vragen kan stellen over BOMOS en
+suggesties kan doen voor de doorontwikkeling van de standaard. Deelname
+aan de Community is vrij voor eenieder die een belang heeft bij de
+standaard (overheid, wetenschap en markt ) Dergelijke vragen en
+suggesties worden door Logius verzameld en voorgelegd aan het UG en AO.
 
-2.  Technisch Overleg (Technische Architectuur Groep – TAG)
+### Organisatiestructuur
 
-Het Technisch Overleg is een periodieke bijeenkomst van de Technische
-Architectuur Groep (TAG) waarbij de vragen en doorontwikkelwensen
-m.b.t. de xxx worden doorgenomen, geprioriteerd en worden uitgewerkt.
-Daarnaast wordt door de leden de releaseplanning en de roadmap
-opgesteld. Deelname aan de TAG is vrij voor eenieder die een belang
-heeft bij de standaard (overheid, wetenschap en markt)
+Voor BOMOS is er nog geen organisatie structuur beschreven, momenteel
+wordt hier
 
-3.  Tactisch overleg xxx
+aan gewerkt, organisatiestructuur in het figuur hieronder wordt
+onderzocht. Bij het beschrijven en borgen van dit beheerdocument worden
+alle activiteiten die nodig zijn voor het beheer van BOMOS onderzocht en
+uitgewerkt. Dit beheer document zal voor review en officiële goedkeuring
+worden aangeboden door de uitvoeringsorganisatie (afdeling Standaarden)
+aan het bestuur en adviesorgaan BOMOS.
 
-Dit gremium is verantwoordelijk voor het vaststellen van de
-doorontwikkel-roadmap, het vaststellen van minor releases van de
-standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: het OBDO.
+Het voorstel is om met een aantal beheerorganisaties het te formeren:
 
-4.  Het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
+![](images/image5.png){width="5.786111111111111in"
+height="3.1993055555555556in"}
 
-Dit is het hoogst ambtelijke gremium dat besluit over major releases
-van de standaard, het beheermodel van de standaard en externe
-publicaties over releases en van het standaardenbeleid. Op dit moment
-wordt het OBDO louter ‘gevoed’ door Forum Standaardisatie en is de
-focus voornamelijk het bestendigen van major releases van de
-standaard. Op het moment dat het tactische gremium is ingevuld, zal
-het OBDO waarschijnlijk een breder scala aan onderwerpen langs krijgen
-ter bestendiging.
+Bestuur groep:
 
-De MIDO structuur kan ook de mogelijkheid bieden om de
-Programmeringsraad GDI te laten besluiten over de standaarden.
-Wijzigingen worden dan ter informatie aan het OBDO voorgelegd.
+-   Directie Digitale Samenleving
 
-Het strategisch overleg neemt besluiten op basis van adviezen van de
-tactisch en strategische overleggen en het advies van de
-beheerorganisatie. Daarnaast kan het strategisch overleg een
-richtinggevend besluit nemen wat aan de beheerorganisatie voorgelegd
-wordt. Bijvoorbeeld een ingrijpende wijziging zoals het overgaan naar
-een nieuwe (onderliggende) standaard kan in het strategisch overleg
-besloten worden.
+```{=html}
+<!-- -->
+```
+-   Logius afdeling Standaarden
 
-In tabelvorm:
+-   Logius afdeling Portfolio
 
-| **Gremium**  | **Accent**   | **Rol participant**  | **Ondersteuning door beheerder (Logius)** |
-|     ---      |    ----      |         ---          |                   ---                     |
-| **Community** (omvang beperkt) | Inhoud -- delen    | Samen met alle leden van de Interesse Groep (IG): 1. Volgen van ontwikkelingen. 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community. 2. Deelnemen aan stuurgroep en werkgroepen |
-| Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | Samen met andere experts van de Technische Architectuur Groep (TAG): <br/>1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. 3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden. 4. Goedkeuring van aanpassingen op de standaard. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. 5. Beschikbaar stellen specificaties. |
-| Tactisch/Strategisch (4x per jaar) | Prioritering proces en uitwerken strategisch advies | Samen met andere participanten: <br/>1. Vaststellen roadmap van de standaard. <br/>2. Voorportaal OBDO 3. Vaststellen minor releases van de standaard. | 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
-| OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+-   Bureau Forum Standaardisatie
+
+Deelnemers Adviesorgaan/klankboordgroep:
+
+-   Kadaster
+
+-   Geonovum
+
+-   Directie Digitale Samenleving
+
+-   KOOP
+
+-   TNO
+
+-   Bureau Forum Standaardisatie
+
+-   Informatie Huis Water
+
+-   RIONED
+
+-   Logius afdeling Stelsels
+
+-   Logius afdeling Standaarden
+
+Uitvoeringsgroep
+
+-   Logius afdeling Standaarden
+
+-   Logius afdeling Stelsels
+
+De BOMOS Community is geen vast gremium, dit kunnen verschillende
+beheersorganisaties zijn die deel willen nemen aan de BOMOS Community.
+Alle beheer organisaties mogen hierin mee participeren.
 
 ### Besluitvorming
 
-In alle overleggremia vindt besluitvorming plaats op basis van
-consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
-met een weergave van de verschillende standpunten door naar het
-eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium (het
-OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
-OBDO (min. BZK) de beslissende stem.
+huishoudelijk regelement\" De besluitvormingsprocessen van de governance
+zijn beschreven. In deze beschrijving is duidelijk welk gremium over
+welke onderwerpen gaat. Voor iedereen moet helder zijn op welke manier,
+binnen welk tijdskader en door wie beslissingen worden genomen. Dit
+geldt zowel voor de meer strategische besluiten als voor de operationele
+afstemming. Voor elk onderdeel van de governance moet worden beschreven
+hoe de besluitvorming is ingericht. Daarbij is alleen meerderheid of
+consensus besluitvorming toegestaan. Waarbij aangegeven kan worden of er
+meerdere stemmingsronden mogelijk zijn.
 
-### Deelname
+Voor het beheer van BOMOS is nog een eigen budget zoals andere
+standaarden of stelsels van Logius beheerd worden. Om die reden is er
+ook nog geen strategisch beraad ingesteld dat verantwoordelijk is voor
+het meerjarenplan en roadmap die als standaardisatieagenda fungeert voor
+de inhoudelijke visie over de richting van de ontwikkeling van BOMOS.
+Een eigen budget ligt hier aan ten grondslag. Een duidelijke visie en
+een financieel meerjarenplan voor het beheer en de ontwikkeling van
+BOMOS is noodzakelijk. Momenteel wordt dit punt besproken met de
+Directie Digitale Samenleving van het Ministerie van Binnenlandse zaken
+en Koninkrijksrelaties en met het Bureau Forum Standaardisatie. De
+kosten voor het beheer van de standaard zijn verder in het document
+inzichtelijk gemaakt. Genoemde zaken vormen tot op heden geen
+belemmering voor de doorontwikkeling en het inrichten van een beheer
+organisatie voor BOMOS. Om het beheer en de doorontwikkeling tot stand
+te brengen worden de activiteiten die daaruit voortkomen projectmatig
+aangepakt en de kosten die hieruit voortkomen worden momenteel uit een
+algemeen Logius budget benut. Binnen dit project zal het beheer van
+BOMOS en doorontwikkeling met de daarbij behorende activiteiten in kaart
+worden gebracht en geborgd.
 
-Uitbreidingen en aanpassingen in de xxx standaard komen tot stand door
-participatie van de verschillende belanghebbenden. Belanghebbenden
-kunnen op vier manieren participeren aan het wijzigings- en
-besluitvormingsproces:
+Het Logius adviesorgaan bestaat uit vertegenwoordigers van publieke
+organisaties, bestaande uit twee standaardisatie specialisten en een
+aantal adviseurs. De leden werken in verschillende beheerorganisaties
+van het Kadaster tot de afdeling standaarden en stelsels van Logius. Het
+adviesorgaan adviseert het bestuur over de inhoud en prioriteiten voor
+het basisprogramma, het beheer van BOMOS. Voor het basisprogramma, het
+beheer van BOMOS, treedt het bestuur, Directie Digitale Samenleving op
+als stuurgroep. Het bestuur Directie Digitale Samenleving beoordeelt en
+beslist over wijzigingsvoorstellen en stelt een nieuwe (versie) van
+BOMOS vast die bij Logius is in beheer is. Het adviesorgaan is
+aanspreekpunt voor klachten over het beheer van BOMOS door Logius. In de
+werkgroepen wordt inhoudelijk en praktijkgerichte kennis uitgewisseld,
+de samenwerking met andere standaardisatieorganisaties is een belangrijk
+onderdeel voor de doorontwikkeling en beheer van BOMOS.
 
-1.  Als lid van de xxx Community van het Kennisplatform / de Interesse Groep (IG)
-2.  Als lid van de Technische Architectuur Groep (TAG)
-3.  Als lid van het Tactisch overleg
-4.  Als lid van het MIDO of OBDO
+### Sturing strategisch
 
-> *Ad 1) Deelname aan de xxx-Community staat open voor alle
-> belanghebbenden; Ad 2) Invulling van het Tactisch overleg volgt, zodra
-> bekend is welk gremium dit is;*
->
-> *[Ad 3) Het OBDO kent een vaste vertegenwoordiging
-> .<span class="underline">Zie voor meer informatie de governance
-> van</span> <span class="underline">Digitaleoverheid.nl
-> </span>](https://www.digitaleoverheid.nl/governance-digitale-overheid/)*
->
-> *Ad 4) Aangezien het overleg van de Technische Architectuur Groep (het
-> Technisch Overleg) het eerste besluitvormende gremium is van de
-> standaard, en besluitvorming in dit gremium plaatsvindt op basis van
-> consensus, stelt Logius een aantal voorwaarden aan deelname:*
+Er is transparante besturing op strategisch niveau aanwezig die past bij
+de ambities van de standaard.
 
-1.  Leden van het technisch overleg dienen een aantoonbaar belang te hebben bij de standaard.
-2.  De omvang en samenstelling moet een goede vertegenwoordiging bevatten van de verschillende belangen rond de standaard. We gaan uit van 1 deelnemer per organisatie.
-3.  Het belang van de Nederlandse overheid dient voldoende geborgd te zijn in het technisch overleg.
+Het operationeel beheer van BOMOS wordt uitgevoerd door de
+beheerorganisatie Logius. Er is een BOMOS community verdeeld in drie
+lagen met bijbehorende beraden waarin afvaardigingen van deelnemers en
+dienstverleners van de beheerorganisaties zitting hebben:
 
-Personen/partijen die willen deelnemen aan het technisch overleg
-kunnen een mail sturen aan xxxx waarin zij aangeven wat hun belang is
-bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
-Logius de aanvraag.
+-   **Strategisch niveau** - Bestuur Directie Digitale Samenleving van
+    het Ministerie van Binnenlandse Zaken en Koninklijkrelacties, Het
+    Bureau Forum Standaardisatie en het Adviesorgaan BOMOS. Het
+    Adviesorgaan BOMOS heeft ook een formele rol op strategisch niveau
+    en is aanwezig om het bestuur kennis inhoudelijk te ondersteunen.
 
-## Financering
+-   **Tactisch niveau** - Bestuur Directie Digitale Samenleving van het
+    Ministerie van Binnenlandse Zaken en Koninklijkrelacties, Het Bureau
+    Forum Standaardisatie en het Adviesorgaan. Het Adviesorgaan BOMOS
+    heeft ook een formele rol op strategisch niveau en is aanwezig om
+    het bestuur kennis inhoudelijk te ondersteunen.
 
-Het beheer van de xxx standaard wordt gefinancierd door min. BZK voor
-een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
-het vertrouwen te geven dat er geen desinvesteringen worden gedaan bij
-het implementeren van de standaard. Na drie jaar wordt de financiering
-verlengd als blijkt dat het nut van en de behoefte aan de standaard
-nog aanwezig is.
+-   **Operationeel niveau**- Adviesorgaan BOMOS, Uitvoeringsorganisatie
+    Afdeling Standaarden, Adviesorgaan/klankboord BOMOS en BOMOS
+    Community welke bestaan uit deelnemers van de beheersorganisaties.
+
+![](images/image5.png){width="5.786111111111111in"
+height="3.1993055555555556in"}
+
+### Stakeholders-betrokkenheid
+
+Het is duidelijk hoe stakeholders betrokken worden en hoe ze mee kunnen
+participeren en wat hun rol daarbij is. Relevante typen stakeholders
+moeten een plek kunnen krijgen ergens in de gekozen structuur van het
+stelsel, en niet principieel worden buitengesloten. Dat wil niet zeggen
+dat elk type stakeholder per definitie dezelfde rechten en plichten
+heeft. Zorg daarnaast ervoor dat binnen die groepen vooral organisaties
+aangesloten zijn die zich committeren aan de doelstellingen van de
+standaard.
+
+Betrokkenheid van de Community bij de verdere ontwikkeling van de
+standaard is voor het gebruik en de draagvlak ervan van groot belang.
+Voor de standaard geldt dat geen onderscheid wordt gemaakt tussen
+publieke en private organisaties en bijvoorbeeld kennisinstellingen. Zij
+vormen samen de community. Aan de inspraak in het wijzigingsproces zijn
+voor hen geen kosten verbonden. Logius informeert en betrekt de
+community via de website en de verschillende nieuwsbrieven. Uit de
+community worden de werkgroepen gevormd op het moment dat dit benodigd
+is. De vergaderdata en verslagen van deze werkgroepen zijn beschikbaar
+voor een ieder via
+[BOMOS:(github.com)](https://github.com/centrumvoorstandaarden/BOMOS).
+Inschrijven voor bijeenkomsten is mogelijk via xxxxx (via toekomstige
+weblink)
+
+### Belangenorganisaties-betrokkenheid
+
+Alle relevante belangenorganisaties zijn bekend en betrokken.
+Belangenorganisaties kunnen optimaal hun achterban bereiken en
+vertegenwoordigen en daardoor zeer waardevol. Alle relevante
+belangenorganisaties moeten dan ook betrokken zijn, en waar mogelijk
+moeten partnerschappen worden gesloten op het gebied van communicatie.
+
+De afdeling Standaarden van Logius werkt samen met andere
+beheerorganisaties, dit kunnen verschillende type beheerorganisaties
+zijn, hierin wordt geen onderscheid gemaakt. Een brede samenwerking en
+kennisgebied is in het belang van de standaard maar ook in het belang
+van de beheerorganisatie zelf. Daarom zorgt de Uitvoeringsorganisatie
+(afdeling Standaarden) en het Adviesorgaan BOMOS ervoor dat
+belanghebbende beheerorganisaties worden betrokken bij verschillende
+activiteiten en overlegvormen. De activiteiten of overleggen kunnen
+workshops zijn, werkgroep overleggen voor wijzigingen of
+klankboardgroepen voor het uitwisselen van kennis.
+
+### Opdracht werkgroepen
+
+Zowel de opdracht van de werkgroep als de wijze waarop over de
+resultaten en uitdagingen gerapporteerd wordt zijn beschreven.
+
+Nieuwe ideeën of wijzigingsverzoeken komen binnen bij de
+Uitvoeringsorganisatie (afdeling Standaarden) van Logius via [BOMOS 3
+(centrumvoorstandaarden.github.io)](https://centrumvoorstandaarden.github.io/BOMOS/index.html),
+of via contacten in het netwerk van de medewerkers van de afdeling
+Standaarden of Stelsels. Zodra een nieuw initiatief zich aandient, in de
+vorm van een opdracht, zorgt de afdeling Standaarden ervoor dat het
+adviesorgaan hiervan op de hoogte wordt gesteld en er een werkgroep
+wordt opgezet.
+
+## Structureel financieel model
+
+Jaarlijks wordt bepaald welk deel van de basisfinanciering besteed wordt
+aan het standaardisatiewerk en daarmee het beheer van de standaarden.
+Over de besteding van de basisfinanciering leggen wij verantwoording af
+aan de Directie Digitale Samenleving van het Ministerie van Binnenlandse
+Zaken en Koninklijk relaties en via het jaarverslag.
+
+### Behoefteanalyse
+
+De structurele financiering is gebaseerd op een grondige behoefte
+analyse zoals hieronder in kaart gebracht, voor het beheren en
+doorontwikkelen van de standaard.
+
+![](images/image6.png){width="5.786111111111111in"
+height="4.834027777777778in"}
+
+

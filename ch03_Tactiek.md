@@ -1,109 +1,178 @@
+
+
 # Tactiek
+
+![](images/image7.png){width="2.4545450568678917in"
+height="0.4583333333333333in"}
 
 ## Community
 
-De xxx community/ Interesse Groep bestaat uit eenieder die
-belanghebbende of belangstellende is m.b.t. de standaard. Deelname aan
-de community kent geen drempels of restricties. Leden van de community
-kunnen alle informatie m.b.t. de standaard en het beheer daarvan
-inzien via de website en via verschillende kanalen issues of RFC's
-melden. Daarnaast kunnen community leden reageren op openbare
-consultaties en onder bepaalde voorwaarden deelnemen aan de Technische
-Architectuur Groep (zie paragraaf
-<span class="underline">deelname</span>).
+Deelname aan de community kent geen drempels of restricties. De leden
+van de community werken in verschillende beheerorganisaties en kunnen
+alle informatie m.b.t. de standaard en het beheer daarvan inzien via de
+website en issues of RFC\'s melden. Het Logius adviesorgaan behandeld
+deze issues of RFC's. In de community en werkgroepen wordt inhoudelijk
+en praktijkgerichte kennis uitgewisseld, de samenwerking met andere
+standaardisatieorganisaties is een belangrijk onderdeel voor de
+doorontwikkeling en beheer van BOMOS.
 
 ## Architectuur
 
-Beschrijf hoe de standaard zich verhoudt tot de enterprise en domein-architecturen.
+De belangrijkste toepassing van BOMOS is als hulpmiddel voor de verdere
+ontwikkeling van beheerorganisaties. De standaard is een op zichzelf
+staande open standaard en geen onderdeel van een bovenliggende standaard
+of stelsel. Er is dus geen afhankelijkheid met andere beheerorganisaties
+van stelsels of standaarden. De samenwerking met andere
+standaardisatieorganisaties is wel een belangrijk onderdeel voor de
+doorontwikkeling en beheer van BOMOS.
 
-<aside class="example">
-De xxx standaard is een op zichzelf staande standaard en geen
-onderdeel van een bovenliggende standaard. Wel wordt er in de ADR
-verwezen naar verschillende andere (internationale) standaarden.
-</aside>
+## Jaarplan/Ontwikkelagenda
 
-### Internationale, Europese en nationale standaardisatiegemeenschap
+Afgeleid van de doelstellingen is voor de standaard een ontwikkelagenda
+opgesteld waarmee invulling wordt gegeven aan de geformuleerde visie.
+Uit het overzicht hieronder kun je opmaken welke ontwikkeling op welk
+moment in de tijd gerealiseerd gaat worden.
 
-<aside class="example">
-De xxx volgt de ontwikkeling van internationale standaarden (zoals
-bijvoorbeeld de HTTP standaarden van het IETF) in het algemeen. Meer
-specifiek volgen de specialisten van Logius en de leden van de TAG de
-standaarden waarnaar wordt gerefereerd in de standaard en bespreken
-deze ontwikkelingen ook in het Technisch Overleg. Indien relevant
-worden op basis van de internationale ontwikkelingen rfc's opgesteld
-om de xxx standaard aan te passen, verbeteren of actualiseren.
-</aside>
++----------------+----------------+----------------+----------------+
+| **Gremium**    | **Accent**     | **Rol          | *              |
+|                |                | participant**  | *Ondersteuning |
+|                |                |                | door beheerder |
+|                |                |                | (Logius)**     |
++================+================+================+================+
+| **BOMOS        | Inhoud --      | Samen met alle | 1\. Informatie |
+| Community**    | delen          | leden van de   | m.b.t.         |
+|                |                | Interesse      | specificaties  |
+| (omvang        |                | Groep (IG):\   | en beheer open |
+| onbeperkt      |                | 1. Volgen van  | delen met      |
+|                |                | on             | community.2\   |
+| Operationeel   |                | twikkelingen.\ | 2. Deelnemen   |
+| 2x Per jaar)   |                | 2. Leveren van | aan en         |
+|                |                | input voor de  | werkgroepen    |
+|                |                | do             | van BOMOS      |
+|                |                | orontwikkeling |                |
+|                |                | van de         |                |
+|                |                | standaard.     |                |
++----------------+----------------+----------------+----------------+
+| **Uitvoeri     | Inhoud --      | Samen met alle | 1\. Informatie |
+| ngsorganisatie | delen --       | leden:\        | m.b.t.         |
+| (Uitvoering    | verwerken en   | 1. Volgen van  | specificaties  |
+| Groep - UG)**  | borgen         | on             | en beheer open |
+|                |                | twikkelingen.\ | delen met      |
+| (Operationeel  |                | 2. Leveren van | community.\    |
+| 1x per maand)  |                | input voor de  | 2. Deelnemen   |
+|                |                | do             | aan stuurgroep |
+|                |                | orontwikkeling | en werkgroepen |
+|                |                | van de         | van BOMOS      |
+|                |                | standaard.     |                |
+|                |                |                | 3\. Issues en  |
+|                |                | 3\. uitwerken  | RFC's in       |
+|                |                | release        | behandeling    |
+|                |                | planning       | nemen.         |
+|                |                |                |                |
+|                |                |                | 4\.            |
+|                |                |                | organiseren    |
+|                |                |                | van            |
+|                |                |                | bijeenkomsten  |
+|                |                |                |                |
+|                |                |                | 5\.            |
+|                |                |                | Analyseren,    |
+|                |                |                | ontwerpen en   |
+|                |                |                | uitwerken van  |
+|                |                |                | specificaties. |
++----------------+----------------+----------------+----------------+
+| **Adviesorgaan | Inhoud --      | Samen met      | 1\.            |
+| BOMOS (Advies  | afstemmen      | andere experts | Analyseren,    |
+| Groep - AG)**  | --adviseren en | van de beheer  | ontwerpen en   |
+|                | beluit         | organisatie:\  | uitwerken van  |
+| (Tactisch 4x   |                | 1. Inhoudelijk | s              |
+| per jaar)      |                | ontwikkelen    | pecificaties.\ |
+|                |                | van standaard  | 2. Volgen en   |
+|                |                | onderdelen en  | beïnvloeden    |
+|                |                | bijbehorende   | van            |
+|                |                | documentatie.\ | standaarden of |
+|                |                | 2.             | modules\       |
+|                |                | Voorbereiden   | 3. Organiseren |
+|                |                | van de         | b              |
+|                |                | rele           | ijeenkomsten.\ |
+|                |                | ase-planning.\ | 4. Beschikbaar |
+|                |                | 3.             | stellen        |
+|                |                | Prioriteiten   | specificaties  |
+|                |                | stellen voor   | en publicaties |
+|                |                | de             |                |
+|                |                | ontwikkeling,  |                |
+|                |                | roadmap van    |                |
+|                |                | nieuwe         |                |
+|                |                | releases van   |                |
+|                |                | de             |                |
+|                |                | standaarden.\  |                |
+|                |                | 4. Goedkeuring |                |
+|                |                | van            |                |
+|                |                | aanpassingen   |                |
+|                |                | op de          |                |
+|                |                | standaard.     |                |
+|                |                |                |                |
+|                |                | 5\.            |                |
+|                |                | Vaststellen    |                |
+|                |                | externe        |                |
+|                |                | publicaties    |                |
+|                |                | over het       |                |
+|                |                | sta            |                |
+|                |                | ndaardenbeleid |                |
+|                |                | en releases.   |                |
+|                |                |                |                |
+|                |                | 6\.            |                |
+|                |                | Vaststellen    |                |
+|                |                | beheermodel    |                |
+|                |                | van de         |                |
+|                |                | standaard.     |                |
++----------------+----------------+----------------+----------------+
+| **Directie     | Bestuurlijk    | Samen met      | 1.Begeleiding  |
+| Digitale       | besluit        | andere         | van de         |
+| Samenleving    |                | bestuurders:\  | Adviesraad     |
+| (Bestuur groep |                | 1. Vaststellen |                |
+| - BG)          |                | budget van de  |                |
+| Strategisch**\ |                | standaard.\    |                |
+| (Strategisch   |                | 2.Vaststellen  |                |
+| b              |                | beheermodel    |                |
+| esluitvormend, |                | van de         |                |
+| 2x per jaar)   |                | standaard.     |                |
++----------------+----------------+----------------+----------------+
 
-### Samenwerking met andere beheerorganisaties
+## Pilots
 
-<aside class="example">
-Kennisplatform of community xxx is een initiatief van xxx, xxx, en
-Logius. Het doel van het Kennisplatform is om de kennis over het
-toepassen van xxx uit te wisselen en de aanpak bij verschillende
-organisaties op elkaar af te stemmen en waar nodig te standaardiseren.
-In het kennisplatform/community wordt gezamenlijk gekeken naar
-strategische en tactische vraagstukken rond het ontwikkelen van de
-standaard xxx door de overheid en gebruik van de standaard xxx buiten
-en binnen de overheid. Dit vanuit de gedachte dat we in een digitale
-samenleving eenvoudig met elkaar moeten kunnen samenwerken.
+Een pilot is onderdeel van de adoptiestrategie om de verschillende
+stakeholders te overtuigen van de meerwaarde van de standaard. Dit doen
+we doormiddel van het aanbieden van een assessment. Hiervoor is tooling
+ingericht en beschikbaar gesteld op de Logius website. Met deze tool kun
+je d.m.v. het invullen van een vragenlijst inzicht krijgen in de mate
+van volwassenheid van het beheer van een standard of stelsel. De
+resultaten kunnen positief bijdragen aan het draagvlak van een standaard
+of stelsel en tevens bijdragen aan verbetering van de kwaliteit.
 
-De xxx standaard komt voort uit xxx die beheerd wordt door het
-Kennisplatform/community xxx en is door het kennisplatform/community
-ontwikkeld. Op het moment dat er in het kennisplatform consensus was
-over de kwaliteit van de xxx standaard en de wenselijkheid deze via
-het 'pas toe of leg uit' -principe normatief te laten verklaren is de
-standaard voorgedragen aan Forum Standaardisatie voor het verkrijgen
-van de voor overheden verplichte 'pas toe of leg uit' status en heeft
-Logius het beheer van dit normatieve deel op zich genomen.
-</aside>
+## Adoptiestrategie
 
-### Nederlandse Overheid Referentie Architectuur (NORA)
-
-De xxx standaard volgt de principes van de Nederlandse Overheid
-Referentie Architectuur. Zie voor meer informatie:
-[<span class="underline">https://www.noraonline.nl/wiki/NORA\_online</span>](https://www.noraonline.nl/wiki/NORA_online)
-
-4.  ###
-
-    1.
-    2.
+Het gebruik van BOMOS is niet vanzelfsprekend. De toepassing en het
+beheer ervan in praktijk brengen is ons uiteindelijke doel. De community
+en werkgroepen zijn hierbij van wezenlijk belang. Voor de adoptie en
+erkenning van de standaard door het werkveld, heeft Logius, de standaard
+ook aangeboden ter publicatie aan de beheersorganisatie en aan het Forum
+Standaardisatie. Zij adviseren ook in het gebruik van de standaarden. In
+samenwerking met de beheerorganisaties welke deelnemen aan de
+werkgroepen en aan de community streven wij naar adoptie en erkenning.
 
 ## Rechtenbeleid
 
-<aside class="example">
-De xxx Standaard zelf en dit beheermodel vallen onder de Creative
-Commons licentie (<span class="underline">Creative Commons</span>
-<span class="underline">Attribution 4.0 License</span>) Dit houdt in
-dat het is toegestaan om deze documenten te gebruiken, verder
-te](https://creativecommons.org/licenses/by/4.0/) verspreiden en aan
-te passen. Dit werk en de specificaties van de xxx standaard worden
+De Standaard zelf en dit beheermodel vallen onder de Creative Commons
+licentie (Creative Commons Attribution 4.0 License) Dit houdt in dat het
+is toegestaan om deze documenten te gebruiken, verder te verspreiden en
+aan te passen. Dit werk en de specificaties van de standaard worden
 royaltee-free ter beschikking gesteld. Organisaties en personen die
-bijdragen aan de ADR dienen dit onder dezelfde voorwaarden te doen als
-bij het originele werk. Door bij te dragen aan de ADR verklaren zij
-hiermee in te stemmen.
-
-Uitgesloten van alle bovenstaande zijn rechten verbonden aan de
-standaarden, profielen en andere onderdelen waar de xxx gebruik van
-maakt. Hierop zijn de rechten van de betreffende standaarden,
-profielen en andere onderdelen zelf van toepassing. Dit zijn in geval
-van de xxx allemaal open standaarden.
-</aside>
+bijdragen aan de standaard dienen dit onder dezelfde voorwaarden te doen
+als bij het originele werk. Door bij te dragen aan de standaard
+verklaren zij hiermee in te stemmen.
 
 ## Kwaliteitsbeleid en benchmarking
 
-<aside class="example">
-Zoals gezegd wordt het beheer van de xxx standaard volledig open
-ingevuld (zie ook de paragraaf <span class="underline">Bomos</span> en
-<span class="underline">Governance</span>) Dit borgt dat zoveel
-mogelijk belangstellenden en belanghebbenden betrokken zijn bij
-wijzigingen en besluitvorming die wijzigingen.
-</aside>
-
-## Adoptie en erkenning
-
-De xxx standaard heeft de 'pas toe of leg uit' -status van Forum
-Standaardisatie. Dit betekent kort gezegd dat Nederlandse
-overheidspartijen en partijen uit de (semi) publieke sector deze
-standaard dienen toe te passen op het moment dat zij hun informatie
-met behulp van xxx standaard willen ontsluiten. Zie hoofdstuk 1 voor
-meer informatie.
+Het beheer van de standaard wordt volledig open ingevuld. Dit borgt dat
+zoveel mogelijk belangstellenden en belanghebbenden betrokken zijn bij
+wijzigingen en besluitvorming.
