@@ -220,6 +220,7 @@ var respecConfig = {
       href: "https://www.logius.nl/diensten/pkioverheid/aansluiten-als-tsp/toegetreden-vertrouwensdienstverleners",
       title: "Toegetreden vertrouwensdienstverleners",
       publisher: "Logius",
+    },
     "PKIoverheid Certificaten": {
       href: "https://cert.pkioverheid.nl/",
       title: "Pkioverheid certificaten",

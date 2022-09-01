@@ -50,8 +50,7 @@ vastgesteld.
 
 Concept versie BOMOS 3.0 moet nog worden vastgesteld.
 
-
-De laatste concept versie 3.0 BOMOS is gepubliceerd iin twee delen: [BOMOS Fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS Verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
+De laatste concept versie 3.0 BOMOS is gepubliceerd in twee delen: [BOMOS Fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS Verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
 
 ## Bomos
 
