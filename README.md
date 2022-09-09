@@ -1,6 +1,6 @@
 # Beheermodel voor het Beheer- en Ontwikkelmodel Open Standaarden (BOMOS)
 
-Dit document maakt deeel uit van de BOMOS documentatie. Deze bestaat uit
+Dit document maakt deel uit van de BOMOS documentatie. Deze bestaat uit
 2 basisdocumenten, aanvullende modules en ondersteunende documenten. Alle
 documentatie is te vinden via de Logius website. Hier staan de repositories
 waaruit de documentatie gegeneerd wordt.
