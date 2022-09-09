@@ -20,10 +20,11 @@ die we volgens BOMOS beheren moet ook BOMOS zelf beheerd worden en ook daarvoor
 passen we de BOMOS principes toe.
 
 De ontwikkelversies staan online.
-- html: https://logius-standaarden.github.io/BOMOS-Beheermodel/
-- html(static): https://logius-standaarden.github.io/BOMOS-Beheermodel/snapshot.html
-- [PDF-versie](https://github.com/Logius-standaarden/BOMOS-Beheermodel/blob/develop/doc.pdf)
+- [Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Beheermodel/index.html)
+- [Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Beheermodel/snapshot.html)
+- [PDF versie](https://logius-standaarden.github.io/BOMOS-Verdieping/BOMOS-Beheermodel.pdf)
 
 Iedereen is vrij om wijzigingen voor te stellen op de BOMOS documentatie.
-Een wijziging gemaakt in github kan als _pull request_ ingediend worden
+Een wijziging gemaakt in github kan als _issue_ worden ingediend worden of
+een (gewijzigde) file kan als _pull request_ ingediend worden
 en door Logius worden overgenomen.
