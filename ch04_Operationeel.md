@@ -65,9 +65,7 @@ Issues die in behandeling worden genomen worden als RFC gelabeld
 Logius, afdeling standaarden onderscheid twee statussen die BOMOS kan
 hebben:
 
-![image](https://user-images.githubusercontent.com/94606563/191775431-6542d03d-ae30-4713-9ab1-a4c5300dfd77.png)
-
-
+![image](https://user-images.githubusercontent.com/94606563/191775963-f2ed5975-9d69-45e0-beb3-fc3728e47566.png)
 
 
   **korting**   **Status van de standaard**   **Beschrijving van de status**
