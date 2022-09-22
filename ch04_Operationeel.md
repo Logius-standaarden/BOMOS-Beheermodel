@@ -65,9 +65,9 @@ Issues die in behandeling worden genomen worden als RFC gelabeld
 Logius, afdeling standaarden onderscheid twee statussen die BOMOS kan
 hebben:
 
-kor-ting	Status van de stan-daard	Beschrijving van de status
-IO	In Ontwik-keling	Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten (BOMOS Community en klankbordgroep) aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubli-ceerd.
-IG	In Gebruik	Als een nieuwe release van de standaard gereed is, en is bestendigd door de Directie Digita-le Samenleving, stelt de BOMOS klankbordgroep de status 'In Gebruik' vast. Hierna wordt de nieuwe release gepubliceerd zodat alle gebruikers hiervan kunnen profiteren. 
+![image](https://user-images.githubusercontent.com/94606563/191775431-6542d03d-ae30-4713-9ab1-a4c5300dfd77.png)
+
+
 
 
   **korting**   **Status van de standaard**   **Beschrijving van de status**
