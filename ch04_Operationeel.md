@@ -40,7 +40,7 @@ van de stromen met RFC\'s.
 Dit houdt concreet in dat RFC\'s die rechtstreeks bij Logius afdeling
 standaarden worden neergelegd, door een lid van de
 Uitvoeringsorganisatie en het BOMOS adviesorgaan wordt opgepakt en
-indien nodig doorgespeeld aan de BOMOS werkgroep zodat daar de eerste
+doorgespeeld aan de BOMOS werkgroep zodat daar de eerste
 beoordeling kan plaatsvinden.
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
