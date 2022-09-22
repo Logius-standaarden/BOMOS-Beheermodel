@@ -2,7 +2,7 @@
 
 # Tactiek
 
-![Tactiek](images/image7.png "Tactiek")
+![Tactiek](images/image7.png "Tactiek") 
 
 ## Community
 
