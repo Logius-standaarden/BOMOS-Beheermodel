@@ -68,7 +68,7 @@ hebben:
 ![image](https://user-images.githubusercontent.com/94606563/191775963-f2ed5975-9d69-45e0-beb3-fc3728e47566.png)
 
 
-  **korting**   **Status van de standaard**   **Beschrijving van de status**
+
   ------------- ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   IO            In Ontwikkeling               Een nieuwe release van de standaard is \"In Ontwikkeling\" wanneer er met medeweten en medewerking van participanten (BOMOS Community en werkgroep) aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.
   IG            In Gebruik                    Als een nieuwe release van de standaard gereed is, en is bestendigd door de Directie Digitale Samenleving, stelt het Adviesorgaan BOMOS de status \'In Gebruik\' vast. Hierna wordt de nieuwe release gepubliceerd zodat alle gebruikers hiervan kunnen profiteren.
