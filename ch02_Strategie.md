@@ -238,11 +238,9 @@ weblink)
 
 ### Belangenorganisaties-betrokkenheid
 
-Alle relevante belangenorganisaties zijn bekend en betrokken.
-Belangenorganisaties kunnen optimaal hun achterban bereiken en
-vertegenwoordigen en daardoor zeer waardevol. Alle relevante
-belangenorganisaties moeten dan ook betrokken zijn, en waar mogelijk
-moeten partnerschappen worden gesloten op het gebied van communicatie.
+Betrokkenheid van belangenorganisaties is van cruciaal belang vanwege het feit dat ze vaak
+optimaal hun achterban kunnen bereiken en vertegenwoordigen. Alle relevante belangenorganisaties 
+moeten dan ook betrokken zijn, en waar mogelijk moeten partnerschappen worden gesloten op het gebied van communicatie
 
 De afdeling Standaarden van Logius werkt samen met andere
 beheerorganisaties, dit kunnen verschillende type beheerorganisaties
