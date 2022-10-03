@@ -147,12 +147,12 @@ hoe de besluitvorming is ingericht. Daarbij is alleen meerderheid of
 consensus besluitvorming toegestaan. Waarbij aangegeven kan worden of er
 meerdere stemmingsronden mogelijk zijn.
 
-Voor het beheer van BOMOS is nog een eigen budget zoals andere
+Voor het beheer van BOMOS is nog geen structureel financieel budget zoals andere
 standaarden of stelsels van Logius beheerd worden. Om die reden is er
 ook nog geen strategisch beraad ingesteld dat verantwoordelijk is voor
 het meerjarenplan en roadmap die als standaardisatieagenda fungeert voor
 de inhoudelijke visie over de richting van de ontwikkeling van BOMOS.
-Een eigen budget ligt hier aan ten grondslag. Een duidelijke visie en
+Een eigen structureel financieel budget ligt hieraan ten grondslag. Een duidelijke visie en
 een financieel meerjarenplan voor het beheer en de ontwikkeling van
 BOMOS is noodzakelijk. Momenteel wordt dit punt besproken met de
 Directie Digitale Samenleving van het Ministerie van Binnenlandse zaken
