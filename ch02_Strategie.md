@@ -100,9 +100,9 @@ uitgewerkt. Dit beheerdocument zal voor review en officiële goedkeuring
 worden aangeboden door de uitvoeringsorganisatie (afdeling Standaarden)
 aan het bestuur en adviesorgaan BOMOS.
 
-Het voorstel is om de organisatiestructuur met een aantal beheerorganisaties te formeren
-
 ![BOMOS Organisatiestructuur](images/image5.png "BOMOS Organisatiestructuur")
+
+Het voorstel is om de organisatiestructuur met een aantal beheerorganisaties te formeren
 
 Bestuur groep:
 
