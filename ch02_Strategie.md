@@ -137,7 +137,7 @@ Alle beheer organisaties mogen hierin mee participeren.
 
 ### Besluitvorming
 
-huishoudelijk regelement\" De besluitvormingsprocessen van de governance
+Huishoudelijk regelement\" De besluitvormingsprocessen van de governance
 zijn beschreven. In deze beschrijving is duidelijk welk gremium over
 welke onderwerpen gaat. Voor iedereen moet helder zijn op welke manier,
 binnen welk tijdskader en door wie beslissingen worden genomen. Dit
