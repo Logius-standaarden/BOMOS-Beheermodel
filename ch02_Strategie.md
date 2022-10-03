@@ -92,17 +92,15 @@ suggesties worden door Logius verzameld en voorgelegd aan het UG en AO.
 
 ### Organisatiestructuur
 
-Voor BOMOS is er nog geen organisatie structuur beschreven, momenteel
-wordt hier
-
-aan gewerkt, organisatiestructuur in het figuur hieronder wordt
+Voor BOMOS is er nog geen organisatiestructuur. Momenteel
+wordt hier aan gewerkt, de organisatiestructuur in het figuur hieronder wordt momenteel 
 onderzocht. Bij het beschrijven en borgen van dit beheerdocument worden
 alle activiteiten die nodig zijn voor het beheer van BOMOS onderzocht en
-uitgewerkt. Dit beheer document zal voor review en officiële goedkeuring
+uitgewerkt. Dit beheerdocument zal voor review en officiële goedkeuring
 worden aangeboden door de uitvoeringsorganisatie (afdeling Standaarden)
 aan het bestuur en adviesorgaan BOMOS.
 
-Het voorstel is om met een aantal beheerorganisaties het te formeren:
+Het voorstel is om de organisatiestructuur met een aantal beheerorganisaties te formeren
 
 ![BOMOS Organisatiestructuur](images/image5.png "BOMOS Organisatiestructuur")
 
