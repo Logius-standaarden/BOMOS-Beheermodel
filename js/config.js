@@ -161,11 +161,6 @@ var respecConfig = {
   // defaults to "GN-"
   nl_organisationPrefix: "LS-",
 
-  // class style can be automatically inserted in generated markdown tables
-  // currently defaults to simple, but this may change
-  // options 'simple', 'data', the style css in this template uses 'dkkvs'
-  nl_markdownTableClass: "dkkvs",
-
   // class style can be automatically inserted in generated markdown code (e.g. `example`)
   // when set the style css can refer to this class
   nl_markdownCodeClass: "code",
