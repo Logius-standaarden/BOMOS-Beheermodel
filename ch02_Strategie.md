@@ -78,14 +78,14 @@ momenteel nog niet actief, waardoor de UG bij wijzigingen aan de
 standaard, de nieuwe versie voorlegt aan het AG voor het borgen van een
 zo breed mogelijke afstemming met verschillende belanghebbenden.
 
-N.B. De definitieve invulling van de tactische en strategische laag
-wordt Q1 2022 duidelijk.
+N.B. De definitieve invulling van de strategische laag
+wordt Q1 2023 duidelijk.
 
-4.  ***BOMOS Community (Uitvoering Groep - UG) Operationeel***
+4.  ***BOMOS Community (Advies Groep - AG) operationeel***
 
 Dit is het meest operationele gremium waarin iedere
-belangstellende/belanghebbende vragen kan stellen over BOMOS en
-suggesties kan doen voor de doorontwikkeling van de standaard. Deelname
+belangstellende/belanghebbende vragen kan stellen, advies kan geven en
+suggesties kan doen voor de doorontwikkeling van BOMOS. Deelname
 aan de Community is vrij voor eenieder die een belang heeft bij de
 standaard (overheid, wetenschap en markt ) Dergelijke vragen en
 suggesties worden door Logius verzameld en voorgelegd aan het UG en AO.
