@@ -62,13 +62,15 @@ Issues die in behandeling worden genomen worden als RFC gelabeld
 
 ## Status van de standaard
 
-Logius, afdeling standaarden onderscheidt twee statussen die BOMOS kan
+Logius, afdeling standaarden onderscheidt vier statussen die Digikoppeling onderdelen kunnen
 hebben:
 
 | Afkorting | Status van de standaard | Beschrijving van de status                                                                                                                                                                                                                                          |
 |-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IO        | In Ontwikkeling         | Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten (BOMOS Community en klankbordgroep) aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.    |
-| IG        | In Gebruik              | Als een nieuwe release van de standaard gereed is, en is bestendigd door de Directie Digitale Samenleving, stelt de BOMOS klankbordgroep de status 'In Gebruik' vast. Hierna wordt de nieuwe release gepubliceerd zodat alle gebruikers hiervan kunnen profiteren.  |
+| IO        | In Ontwikkeling         | Een (nieuwe release van een) Digikoppeling onderdeel is “In Ontwikkeling” wanneer er met medeweten en medewerking van participanten aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.    |
+| IG        | In Gebruik              | Als een (nieuwe release van een) Digikoppeling onderdeel gereed is, stellen het Digikoppeling Technisch Overleg en de Programmeringstafel en -raad de status ‘In Gebruik’ vast. Door deze vaststelling worden gebruikers en ICT-leveranciers opgeroepen deze nieuwe release op te nemen in software en in gebruik te nemen.  |
+| EO | Einde Ondersteuning | Het Digikoppeling onderdeel met de status “Einde ondersteuning” wordt niet meer ondersteund door de Digikoppeling beheerder. De kennis en informatie voor vragen en support is bij de beheerder niet langer beschikbaar. |
+| TG | Teruggetrokken  | Een Digikoppeling onderdeel krijgt de status “Teruggetrokken” indien een release van een Digikoppeling onderdeel niet bruikbaar blijkt (bijv. vanwege implementatieproblemen). |
 
 ## Documentatie
 
