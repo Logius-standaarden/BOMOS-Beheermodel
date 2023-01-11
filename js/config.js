@@ -161,11 +161,6 @@ var respecConfig = {
   // defaults to "GN-"
   nl_organisationPrefix: "LS-",
 
-  // class style can be automatically inserted in generated markdown tables
-  // currently defaults to simple, but this may change
-  // options 'simple', 'data', the style css in this template uses 'dkkvs'
-  nl_markdownTableClass: "dkkvs",
-
   // class style can be automatically inserted in generated markdown code (e.g. `example`)
   // when set the style css can refer to this class
   nl_markdownCodeClass: "code",
@@ -176,17 +171,17 @@ var respecConfig = {
 
   // this url points to the folder where organsation specific css files are stored
   // defaults to https://tools.geostandaarden.nl/respec/style/ if not set
-  nl_organisationStylesURL: "https://publicatie.centrumvoorstandaarden.nl/respec/style/",
+  nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
   // nl_organisationStylesURL: "http://localhost:8081/respec/style/",
 
   // nl_organisationPublishURL points to organisation specifica publication page, used in header
   // defaults to  https://docs.geostandaarden.nl/"
-  nl_organisationPublishURL: "https://publicatie.centrumvoorstandaarden.nl/",
+  nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
 
   // nl_logo refers to company logo
   // defaults to https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg
   nl_logo: {
-    src: "https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/figure-logius.svg",
+    src: "https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg",
     alt: "Logius",
     id: "Logius",
     height: 77,

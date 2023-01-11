@@ -78,33 +78,31 @@ momenteel nog niet actief, waardoor de UG bij wijzigingen aan de
 standaard, de nieuwe versie voorlegt aan het AG voor het borgen van een
 zo breed mogelijke afstemming met verschillende belanghebbenden.
 
-N.B. De definitieve invulling van de tactische en strategische laag
-wordt Q1 2022 duidelijk.
+N.B. De definitieve invulling van de strategische laag
+wordt Q1 2023 duidelijk.
 
-4.  ***BOMOS Community (Uitvoering Groep - UG) Operationeel***
+4.  ***BOMOS Community (Advies Groep - AG) operationeel***
 
 Dit is het meest operationele gremium waarin iedere
-belangstellende/belanghebbende vragen kan stellen over BOMOS en
-suggesties kan doen voor de doorontwikkeling van de standaard. Deelname
+belangstellende/belanghebbende vragen kan stellen, advies kan geven en
+suggesties kan doen voor de doorontwikkeling van BOMOS. Deelname
 aan de Community is vrij voor eenieder die een belang heeft bij de
 standaard (overheid, wetenschap en markt ) Dergelijke vragen en
 suggesties worden door Logius verzameld en voorgelegd aan het UG en AO.
 
 ### Organisatiestructuur
 
-Voor BOMOS is er nog geen organisatie structuur beschreven, momenteel
-wordt hier
-
-aan gewerkt, organisatiestructuur in het figuur hieronder wordt
+Voor BOMOS is er nog geen organisatiestructuur. Momenteel
+wordt hier aan gewerkt, de organisatiestructuur in het figuur hieronder wordt momenteel 
 onderzocht. Bij het beschrijven en borgen van dit beheerdocument worden
 alle activiteiten die nodig zijn voor het beheer van BOMOS onderzocht en
-uitgewerkt. Dit beheer document zal voor review en officiële goedkeuring
+uitgewerkt. Dit beheerdocument zal voor review en officiële goedkeuring
 worden aangeboden door de uitvoeringsorganisatie (afdeling Standaarden)
 aan het bestuur en adviesorgaan BOMOS.
 
-Het voorstel is om met een aantal beheerorganisaties het te formeren:
-
 ![BOMOS Organisatiestructuur](images/image5.png "BOMOS Organisatiestructuur")
+
+Het voorstel is om de organisatiestructuur met een aantal beheerorganisaties te formeren
 
 Bestuur groep:
 
@@ -137,7 +135,7 @@ Alle beheer organisaties mogen hierin mee participeren.
 
 ### Besluitvorming
 
-huishoudelijk regelement\" De besluitvormingsprocessen van de governance
+Het huishoudelijk regelement en de besluitvormingsprocessen van de governance
 zijn beschreven. In deze beschrijving is duidelijk welk gremium over
 welke onderwerpen gaat. Voor iedereen moet helder zijn op welke manier,
 binnen welk tijdskader en door wie beslissingen worden genomen. Dit
@@ -147,12 +145,12 @@ hoe de besluitvorming is ingericht. Daarbij is alleen meerderheid of
 consensus besluitvorming toegestaan. Waarbij aangegeven kan worden of er
 meerdere stemmingsronden mogelijk zijn.
 
-Voor het beheer van BOMOS is nog een eigen budget zoals andere
+Voor het beheer van BOMOS is nog geen structureel financieel budget zoals andere
 standaarden of stelsels van Logius beheerd worden. Om die reden is er
 ook nog geen strategisch beraad ingesteld dat verantwoordelijk is voor
 het meerjarenplan en roadmap die als standaardisatieagenda fungeert voor
 de inhoudelijke visie over de richting van de ontwikkeling van BOMOS.
-Een eigen budget ligt hier aan ten grondslag. Een duidelijke visie en
+Een eigen structureel financieel budget ligt hieraan ten grondslag. Een duidelijke visie en
 een financieel meerjarenplan voor het beheer en de ontwikkeling van
 BOMOS is noodzakelijk. Momenteel wordt dit punt besproken met de
 Directie Digitale Samenleving van het Ministerie van Binnenlandse zaken
@@ -238,11 +236,9 @@ weblink)
 
 ### Belangenorganisaties-betrokkenheid
 
-Alle relevante belangenorganisaties zijn bekend en betrokken.
-Belangenorganisaties kunnen optimaal hun achterban bereiken en
-vertegenwoordigen en daardoor zeer waardevol. Alle relevante
-belangenorganisaties moeten dan ook betrokken zijn, en waar mogelijk
-moeten partnerschappen worden gesloten op het gebied van communicatie.
+Betrokkenheid van belangenorganisaties is van cruciaal belang vanwege het feit dat ze vaak
+optimaal hun achterban kunnen bereiken en vertegenwoordigen. Alle relevante belangenorganisaties 
+moeten dan ook betrokken zijn, en waar mogelijk moeten partnerschappen worden gesloten op het gebied van communicatie
 
 De afdeling Standaarden van Logius werkt samen met andere
 beheerorganisaties, dit kunnen verschillende type beheerorganisaties
