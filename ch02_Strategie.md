@@ -281,3 +281,7 @@ analyse zoals hieronder in kaart gebracht, voor het beheren en
 doorontwikkelen van de standaard.
 
 ![Behoefteanalyse](images/image6.png "Behoefteanalyse")
+
+![image](https://user-images.githubusercontent.com/94606563/218986313-c39af668-d0c1-45ef-ab9f-0b7adacf3f63.png)
+
+
