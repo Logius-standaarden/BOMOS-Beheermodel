@@ -235,4 +235,7 @@ wordt opgezet.
 
 Jaarlijks wordt bepaald welk deel van de basisfinanciering besteed wordt
 aan het standaardisatiewerk en daarmee het beheer van de standaarden.
-Het beheer van BOMOS standaard wordt gefinancieerd door het ministerie van BZK in het kader van de financiering van Logius dienstverlening.
+
+Het beheer van BOMOS standaard wordt gefinancieerd door het ministerie van BZK 
+in het kader van de financiering van Logius dienstverlening.
+
