@@ -2,7 +2,7 @@
 
 # Tactiek
 
-![Tactiek](images/image7.png "Tactiek")
+![Tactiek](images/image7.png "Tactiek") 
 
 ## Community
 
@@ -32,110 +32,11 @@ opgesteld waarmee invulling wordt gegeven aan de geformuleerde visie.
 Uit het overzicht hieronder kun je opmaken welke ontwikkeling op welk
 moment in de tijd gerealiseerd gaat worden.
 
-+----------------+----------------+----------------+----------------+
-| **Gremium**    | **Accent**     | **Rol          | *              |
-|                |                | participant**  | *Ondersteuning |
-|                |                |                | door beheerder |
-|                |                |                | (Logius)**     |
-+================+================+================+================+
-| **BOMOS        | Inhoud --      | Samen met alle | 1\. Informatie |
-| Community**    | delen          | leden van de   | m.b.t.         |
-|                |                | Interesse      | specificaties  |
-| (omvang        |                | Groep (IG):\   | en beheer open |
-| onbeperkt      |                | 1. Volgen van  | delen met      |
-|                |                | on             | community.2\   |
-| Operationeel   |                | twikkelingen.\ | 2. Deelnemen   |
-| 2x Per jaar)   |                | 2. Leveren van | aan en         |
-|                |                | input voor de  | werkgroepen    |
-|                |                | do             | van BOMOS      |
-|                |                | orontwikkeling |                |
-|                |                | van de         |                |
-|                |                | standaard.     |                |
-+----------------+----------------+----------------+----------------+
-| **Uitvoeri     | Inhoud --      | Samen met alle | 1\. Informatie |
-| ngsorganisatie | delen --       | leden:\        | m.b.t.         |
-| (Uitvoering    | verwerken en   | 1. Volgen van  | specificaties  |
-| Groep - UG)**  | borgen         | on             | en beheer open |
-|                |                | twikkelingen.\ | delen met      |
-| (Operationeel  |                | 2. Leveren van | community.\    |
-| 1x per maand)  |                | input voor de  | 2. Deelnemen   |
-|                |                | do             | aan stuurgroep |
-|                |                | orontwikkeling | en werkgroepen |
-|                |                | van de         | van BOMOS      |
-|                |                | standaard.     |                |
-|                |                |                | 3\. Issues en  |
-|                |                | 3\. uitwerken  | RFC's in       |
-|                |                | release        | behandeling    |
-|                |                | planning       | nemen.         |
-|                |                |                |                |
-|                |                |                | 4\.            |
-|                |                |                | organiseren    |
-|                |                |                | van            |
-|                |                |                | bijeenkomsten  |
-|                |                |                |                |
-|                |                |                | 5\.            |
-|                |                |                | Analyseren,    |
-|                |                |                | ontwerpen en   |
-|                |                |                | uitwerken van  |
-|                |                |                | specificaties. |
-+----------------+----------------+----------------+----------------+
-| **Adviesorgaan | Inhoud --      | Samen met      | 1\.            |
-| BOMOS (Advies  | afstemmen      | andere experts | Analyseren,    |
-| Groep - AG)**  | --adviseren en | van de beheer  | ontwerpen en   |
-|                | beluit         | organisatie:\  | uitwerken van  |
-| (Tactisch 4x   |                | 1. Inhoudelijk | s              |
-| per jaar)      |                | ontwikkelen    | pecificaties.\ |
-|                |                | van standaard  | 2. Volgen en   |
-|                |                | onderdelen en  | beïnvloeden    |
-|                |                | bijbehorende   | van            |
-|                |                | documentatie.\ | standaarden of |
-|                |                | 2.             | modules\       |
-|                |                | Voorbereiden   | 3. Organiseren |
-|                |                | van de         | b              |
-|                |                | rele           | ijeenkomsten.\ |
-|                |                | ase-planning.\ | 4. Beschikbaar |
-|                |                | 3.             | stellen        |
-|                |                | Prioriteiten   | specificaties  |
-|                |                | stellen voor   | en publicaties |
-|                |                | de             |                |
-|                |                | ontwikkeling,  |                |
-|                |                | roadmap van    |                |
-|                |                | nieuwe         |                |
-|                |                | releases van   |                |
-|                |                | de             |                |
-|                |                | standaarden.\  |                |
-|                |                | 4. Goedkeuring |                |
-|                |                | van            |                |
-|                |                | aanpassingen   |                |
-|                |                | op de          |                |
-|                |                | standaard.     |                |
-|                |                |                |                |
-|                |                | 5\.            |                |
-|                |                | Vaststellen    |                |
-|                |                | externe        |                |
-|                |                | publicaties    |                |
-|                |                | over het       |                |
-|                |                | sta            |                |
-|                |                | ndaardenbeleid |                |
-|                |                | en releases.   |                |
-|                |                |                |                |
-|                |                | 6\.            |                |
-|                |                | Vaststellen    |                |
-|                |                | beheermodel    |                |
-|                |                | van de         |                |
-|                |                | standaard.     |                |
-+----------------+----------------+----------------+----------------+
-| **Directie     | Bestuurlijk    | Samen met      | 1.Begeleiding  |
-| Digitale       | besluit        | andere         | van de         |
-| Samenleving    |                | bestuurders:\  | Adviesraad     |
-| (Bestuur groep |                | 1. Vaststellen |                |
-| - BG)          |                | budget van de  |                |
-| Strategisch**\ |                | standaard.\    |                |
-| (Strategisch   |                | 2.Vaststellen  |                |
-| b              |                | beheermodel    |                |
-| esluitvormend, |                | van de         |                |
-| 2x per jaar)   |                | standaard.     |                |
-+----------------+----------------+----------------+----------------+
+| Gremium                                                                        | Accent                                   | Rol participant                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Ondersteuning door beheerder (Logius)                                                                                                                                                                                                                                             |
+|--------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **BOMOS Community**<br>(omvang onbeperkt<br>Operationeel 2x Per jaar)          | Inhoud – delen                           | Samen met alle leden van de community:<br>1. Volgen van ontwikkelingen.<br>2. Leveren van input voor de doorontwikkeling van de standaard.                                                                                                                                                                                                                                                                                                                              | 1. Informatie m.b.t. specificaties en beheer open delen met community.<br>2. Deelnemen aan BOMOS klankbordgroep<br>3. Organiseren bijeenkomsten.                                                                                                                                  |
+| **BOMOS Klankbordgroep**<br>(Tactisch 4x per jaar)                             | Inhoud – afstemmen –adviseren en  beluit | Samen met andere experts van de beheer organisatie:<br>1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie.<br>2. Voorbereiden van de release-planning.<br>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br>4. Goedkeuring van aanpassingen op de standaard.<br>5. Vaststellen externe publicaties over het standaardenbeleid en releases.<br>6. Vaststellen beheermodel van de standaard. | 1. Informatie m.b.t. specificaties en beheer open delen met community.<br>2. Analyseren, ontwerpen en uitwerken van specificaties.<br>3. Volgen en beïnvloeden van standaarden of modules<br>4. Organiseren bijeenkomsten.<br>5. Beschikbaar stellen specificaties en publicaties |
+| **Directie Digitale Samenleving**<br>(Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit                      | Samen met andere bestuurders:<br>1. Vaststellen budget van BOMOS.<br>2. Vaststellen beheermodel van de standaard.                                                                                                                                                                                                                                                                                                                                                       | 1.Begeleiding van de Adviesraad                                                                                                                                                                                                                                                   |
 
 ## Pilots
 

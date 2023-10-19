@@ -40,7 +40,7 @@ van de stromen met RFC\'s.
 Dit houdt concreet in dat RFC\'s die rechtstreeks bij Logius afdeling
 standaarden worden neergelegd, door een lid van de
 Uitvoeringsorganisatie en het BOMOS adviesorgaan wordt opgepakt en
-indien nodig doorgespeeld aan de BOMOS werkgroep zodat daar de eerste
+doorgespeeld aan de BOMOS werkgroep zodat daar de eerste
 beoordeling kan plaatsvinden.
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
@@ -62,13 +62,13 @@ Issues die in behandeling worden genomen worden als RFC gelabeld
 
 ## Status van de standaard
 
-Logius, afdeling standaarden onderscheid twee statussen die BOMOS kan
+Logius, afdeling standaarden onderscheidt twee statussen die BOMOS kan
 hebben:
 
-  **korting**   **Status van de standaard**   **Beschrijving van de status**
-  ------------- ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  IO            In Ontwikkeling               Een nieuwe release van de standaard is \"In Ontwikkeling\" wanneer er met medeweten en medewerking van participanten (BOMOS Community en werkgroep) aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.
-  IG            In Gebruik                    Als een nieuwe release van de standaard gereed is, en is bestendigd door de Directie Digitale Samenleving, stelt het Adviesorgaan BOMOS de status \'In Gebruik\' vast. Hierna wordt de nieuwe release gepubliceerd zodat alle gebruikers hiervan kunnen profiteren.
+| Afkorting | Status van de standaard | Beschrijving van de status                                                                                                                                                                                                                                          |
+|-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IO        | In Ontwikkeling         | Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten (BOMOS Community en klankbordgroep) aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.    |
+| IG        | In Gebruik              | Als een nieuwe release van de standaard gereed is, en is bestendigd door de Directie Digitale Samenleving, stelt de BOMOS klankbordgroep de status 'In Gebruik' vast. Hierna wordt de nieuwe release gepubliceerd zodat alle gebruikers hiervan kunnen profiteren.  |
 
 ## Documentatie
 
