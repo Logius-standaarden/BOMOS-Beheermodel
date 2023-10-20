@@ -11,7 +11,7 @@ var respecConfig = {
   editors: [ 
       { 
         "company" : "Logius",
-        "name" : "GÃ¼l IÅŸik",
+        "name" : "Gül Işik",
         "url" : "https://logius.nl/standaarden"
       },
       { 
