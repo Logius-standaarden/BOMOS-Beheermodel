@@ -8,7 +8,6 @@ loadRespecWithConfiguration({
   authors: [ { 
         "mailto" : "bomos@logius.nl",
         "name" : "Logius",
-        "url" : "https://logius.nl/standaarden"
       } ],
   editors: [ 
       { 
