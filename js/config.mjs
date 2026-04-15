@@ -2,19 +2,20 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 
 loadRespecWithConfiguration({
   authors: [ { 
-        "mailto" : "bomos@logius.nl",
-        "name" : "Logius",
+        "company" : "Logius",
+        "name" : "Gül Işik",
+        "url" : "https://www.logius.nl"
       } ],
   editors: [ 
       { 
         "company" : "Logius",
         "name" : "Gül Işik",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       },
       { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       }
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Beheermodel",
