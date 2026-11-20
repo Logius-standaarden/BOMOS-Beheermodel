@@ -1,4 +1,19 @@
-# Beheermodel voor het Beheer- en Ontwikkelmodel Open Standaarden (BOMOS)
+<h1 align="center">BOMOS Beheermodel</h1>
+
+<p align="center">
+  <em>Dit beheermodel beschrijft hoe Logius BOMOS zelf beheert. Net als de standaarden die we volgens BOMOS beheren moet ook BOMOS zelf beheerd worden en ook daarvoor passen we de BOMOS principes toe.</em>
+</p>
+
+<p align="center">
+  <a href="https://gitdocumentatie.logius.nl/publicatie/bomos/beheer/"><img alt="Gepubliceerde versie 1.0.0" src="https://img.shields.io/badge/Gepubliceerd-1.0.0-0B71CE?style=flat-square"></a>
+</p>
+
+<p align="center">
+  <a href="https://logius-standaarden.github.io/BOMOS-Beheermodel/"><b>Werkversie</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Logius-standaarden/BOMOS-Beheermodel/issues/new/choose"><b>Issue indienen</b></a>
+</p>
+
+---
 
 Dit document maakt deel uit van de BOMOS documentatie. Deze bestaat uit
 2 basisdocumenten, aanvullende modules en ondersteunende documenten. Alle
@@ -13,18 +28,4 @@ waaruit de documentatie gegeneerd wordt.
 - [BOMOS Linked Data](https://www.github.com/Logius-standaarden/BOMOS-LinkedData),
   aanvullende module met BOMOS aspecten die specifiek over linked data gaan.
 - [BOMOS Beheermodel](https://www.github.com/Logius-standaarden/BOMOS-Beheermodel),
-  deze repository
-
-Dit beheermodel beschrijft hoe Logius BOMOS zelf beheert. Net als de standaarden
-die we volgens BOMOS beheren moet ook BOMOS zelf beheerd worden en ook daarvoor
-passen we de BOMOS principes toe.
-
-De ontwikkelversies staan online.
-- [Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Beheermodel/index.html)
-- [Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Beheermodel/snapshot.html)
-- [PDF versie](https://logius-standaarden.github.io/BOMOS-Verdieping/BOMOS-Beheermodel.pdf)
-
-Iedereen is vrij om wijzigingen voor te stellen op de BOMOS documentatie.
-Een wijziging gemaakt in github kan als _issue_ worden ingediend worden of
-een (gewijzigde) file kan als _pull request_ ingediend worden
-en door Logius worden overgenomen.
+  wat het beheer van BOMOS beschrijft **Deze repository**
